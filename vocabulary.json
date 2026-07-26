@@ -1,0 +1,7002 @@
+[
+  {
+    "hanzi": "啊",
+    "pinyin": "ā",
+    "pos": "叹词",
+    "english": "ah, oh",
+    "mongolian": "Өө, аа (аялгын үг)"
+  },
+  {
+    "hanzi": "爱情",
+    "pinyin": "àiqíng",
+    "pos": "名词",
+    "english": "love",
+    "mongolian": "хайр дурлал"
+  },
+  {
+    "hanzi": "爱心",
+    "pinyin": "àixīn",
+    "pos": "名词",
+    "english": "compassion, caring",
+    "mongolian": "энэрэл, халамж"
+  },
+  {
+    "hanzi": "安检",
+    "pinyin": "ānjiǎn",
+    "pos": "动词",
+    "english": "security check, to conduct security check",
+    "mongolian": "аюулгүйн шалгалт хийх"
+  },
+  {
+    "hanzi": "安排",
+    "pinyin": "ānpái",
+    "pos": "动词",
+    "english": "to arrange",
+    "mongolian": "зохион байгуулах"
+  },
+  {
+    "hanzi": "按",
+    "pinyin": "àn",
+    "pos": "动/介词",
+    "english": "to press, to push; according to",
+    "mongolian": "дарах; -ний дагуу"
+  },
+  {
+    "hanzi": "按时",
+    "pinyin": "ànshí",
+    "pos": "副词",
+    "english": "on time, on schedule",
+    "mongolian": "цагтаа"
+  },
+  {
+    "hanzi": "按照",
+    "pinyin": "ànzhào",
+    "pos": "介词",
+    "english": "according to, in accordance with",
+    "mongolian": "-ний дагуу"
+  },
+  {
+    "hanzi": "白酒",
+    "pinyin": "báijiǔ",
+    "pos": "名词",
+    "english": "liquor, spirit",
+    "mongolian": "цагаан архи"
+  },
+  {
+    "hanzi": "办公",
+    "pinyin": "bàngōng",
+    "pos": "动词",
+    "english": "to handle official business, to work",
+    "mongolian": "алба ажил хийх"
+  },
+  {
+    "hanzi": "办理",
+    "pinyin": "bànlǐ",
+    "pos": "动词",
+    "english": "to handle, to process",
+    "mongolian": "гүйцэтгэх"
+  },
+  {
+    "hanzi": "办事",
+    "pinyin": "bànshì",
+    "pos": "动词",
+    "english": "to handle matters, to take care of things",
+    "mongolian": "ажил хэрэг гүйцэтгэх"
+  },
+  {
+    "hanzi": "棒",
+    "pinyin": "bàng",
+    "pos": "形容词",
+    "english": "great, excellent; (stick, club)",
+    "mongolian": "гайхалтай"
+  },
+  {
+    "hanzi": "保护",
+    "pinyin": "bǎohù",
+    "pos": "动词",
+    "english": "to protect",
+    "mongolian": "хамгаалах"
+  },
+  {
+    "hanzi": "保证",
+    "pinyin": "bǎozhèng",
+    "pos": "动/名词",
+    "english": "to guarantee, to ensure; guarantee, assurance",
+    "mongolian": "батлах; баталгаа"
+  },
+  {
+    "hanzi": "抱",
+    "pinyin": "bào",
+    "pos": "动词",
+    "english": "to hold, to embrace, to hug",
+    "mongolian": "тэвэрч авах"
+  },
+  {
+    "hanzi": "报考",
+    "pinyin": "bàokǎo",
+    "pos": "动词",
+    "english": "to apply for an exam, to register for a test",
+    "mongolian": "шалгалтад бүртгүүлэх"
+  },
+  {
+    "hanzi": "报名",
+    "pinyin": "bàomíng",
+    "pos": "动词",
+    "english": "to sign up, to register",
+    "mongolian": "бүртгүүлэх"
+  },
+  {
+    "hanzi": "抱歉",
+    "pinyin": "bàoqiàn",
+    "pos": "形容词",
+    "english": "sorry, apologetic",
+    "mongolian": "уучлал хүсэх"
+  },
+  {
+    "hanzi": "背",
+    "pinyin": "bēi",
+    "pos": "动词",
+    "english": "to carry on the back",
+    "mongolian": "нуруун дээрээ үүрэх"
+  },
+  {
+    "hanzi": "背包",
+    "pinyin": "bēibāo",
+    "pos": "名词",
+    "english": "backpack",
+    "mongolian": "нуруун цүнх"
+  },
+  {
+    "hanzi": "北部",
+    "pinyin": "běibù",
+    "pos": "名词",
+    "english": "northern part, north",
+    "mongolian": "хойд хэсэг"
+  },
+  {
+    "hanzi": "倍",
+    "pinyin": "bèi",
+    "pos": "量词",
+    "english": "measure word meaning times, -fold",
+    "mongolian": "дахин тоолох үг"
+  },
+  {
+    "hanzi": "本科",
+    "pinyin": "běnkē",
+    "pos": "名词",
+    "english": "undergraduate program",
+    "mongolian": "бакалаврын хөтөлбөр"
+  },
+  {
+    "hanzi": "本来",
+    "pinyin": "běnlái",
+    "pos": "形/副词",
+    "english": "original, former; originally, actually",
+    "mongolian": "анхныхаараа; үнэндээ"
+  },
+  {
+    "hanzi": "笨",
+    "pinyin": "bèn",
+    "pos": "形容词",
+    "english": "stupid, foolish",
+    "mongolian": "тэнэг"
+  },
+  {
+    "hanzi": "鼻子",
+    "pinyin": "bízi",
+    "pos": "名词",
+    "english": "nose",
+    "mongolian": "хамар"
+  },
+  {
+    "hanzi": "笔试",
+    "pinyin": "bǐshì",
+    "pos": "动词",
+    "english": "written test, to take a written exam",
+    "mongolian": "бичгийн шалгалт өгөх"
+  },
+  {
+    "hanzi": "毕业",
+    "pinyin": "bìyè",
+    "pos": "动词",
+    "english": "to graduate",
+    "mongolian": "төгсөх"
+  },
+  {
+    "hanzi": "毕业生",
+    "pinyin": "bìyèshēng",
+    "pos": "名词",
+    "english": "graduate",
+    "mongolian": "төгсөгч"
+  },
+  {
+    "hanzi": "便于",
+    "pinyin": "biànyú",
+    "pos": "动词",
+    "english": "to be convenient for, to facilitate",
+    "mongolian": "хялбар болгох"
+  },
+  {
+    "hanzi": "标准",
+    "pinyin": "biāozhǔn",
+    "pos": "名/形容词",
+    "english": "standard; standard, typical",
+    "mongolian": "стандарт"
+  },
+  {
+    "hanzi": "表",
+    "pinyin": "biǎo",
+    "pos": "名词",
+    "english": "watch, meter, table, form; (to express)",
+    "mongolian": "хүснэгт, цаг"
+  },
+  {
+    "hanzi": "表格",
+    "pinyin": "biǎogé",
+    "pos": "名词",
+    "english": "form, table",
+    "mongolian": "маягт"
+  },
+  {
+    "hanzi": "表示",
+    "pinyin": "biǎoshì",
+    "pos": "动词",
+    "english": "to express, to indicate, to show",
+    "mongolian": "илэрхийлэх"
+  },
+  {
+    "hanzi": "表现",
+    "pinyin": "biǎoxiàn",
+    "pos": "动词",
+    "english": "to show, to display, to perform",
+    "mongolian": "илрэх, үзүүлэх"
+  },
+  {
+    "hanzi": "表扬",
+    "pinyin": "biǎoyáng",
+    "pos": "动词",
+    "english": "to praise, to commend",
+    "mongolian": "магтах"
+  },
+  {
+    "hanzi": "饼干",
+    "pinyin": "bǐnggān",
+    "pos": "名词",
+    "english": "biscuit, cracker",
+    "mongolian": "жигнэмэг"
+  },
+  {
+    "hanzi": "并",
+    "pinyin": "bìng",
+    "pos": "动/副/连词",
+    "english": "to combine, to merge; actually, indeed; and, also",
+    "mongolian": "нэгтгэх; бас"
+  },
+  {
+    "hanzi": "并且",
+    "pinyin": "bìngqiě",
+    "pos": "连词",
+    "english": "and, moreover, furthermore",
+    "mongolian": "түүнчлэн"
+  },
+  {
+    "hanzi": "播放",
+    "pinyin": "bōfàng",
+    "pos": "动词",
+    "english": "to broadcast, to play",
+    "mongolian": "нэвтрүүлэх"
+  },
+  {
+    "hanzi": "博士",
+    "pinyin": "bóshì",
+    "pos": "名词",
+    "english": "doctor",
+    "mongolian": "доктор"
+  },
+  {
+    "hanzi": "不必",
+    "pinyin": "búbì",
+    "pos": "副词",
+    "english": "need not, not necessary",
+    "mongolian": "хэрэггүй"
+  },
+  {
+    "hanzi": "不便",
+    "pinyin": "búbiàn",
+    "pos": "形/动词",
+    "english": "inconvenient; to be short of money",
+    "mongolian": "тохиромжгүй"
+  },
+  {
+    "hanzi": "不断",
+    "pinyin": "búduàn",
+    "pos": "动/副词",
+    "english": "continuous, unceasing; continuously, constantly",
+    "mongolian": "тасралтгүй"
+  },
+  {
+    "hanzi": "不够",
+    "pinyin": "búgòu",
+    "pos": "动/副词",
+    "english": "not enough, insufficient; not sufficiently",
+    "mongolian": "хүрэлцэхгүй"
+  },
+  {
+    "hanzi": "不过",
+    "pinyin": "búguò",
+    "pos": "连词",
+    "english": "but, however; (only, merely)",
+    "mongolian": "гэхдээ"
+  },
+  {
+    "hanzi": "不论",
+    "pinyin": "búlùn",
+    "pos": "连词",
+    "english": "no matter, regardless",
+    "mongolian": "хэдий ч"
+  },
+  {
+    "hanzi": "步",
+    "pinyin": "bù",
+    "pos": "名词",
+    "english": "step, pace",
+    "mongolian": "алхам"
+  },
+  {
+    "hanzi": "部",
+    "pinyin": "bù",
+    "pos": "名/量词",
+    "english": "department, part; measure word for books, machines, etc.",
+    "mongolian": "хэлтэс; ном тоолох үг"
+  },
+  {
+    "hanzi": "不得不",
+    "pinyin": "bùdébù",
+    "pos": "副词",
+    "english": "have to, cannot but",
+    "mongolian": "заавал"
+  },
+  {
+    "hanzi": "部分",
+    "pinyin": "bùfen",
+    "pos": "名词",
+    "english": "part, portion",
+    "mongolian": "хэсэг"
+  },
+  {
+    "hanzi": "不管",
+    "pinyin": "bùguǎn",
+    "pos": "连词",
+    "english": "no matter, regardless of",
+    "mongolian": "хэдий ч"
+  },
+  {
+    "hanzi": "不光",
+    "pinyin": "bùguāng",
+    "pos": "副/连词",
+    "english": "not only; not only... (but also)",
+    "mongolian": "зөвхөн бус"
+  },
+  {
+    "hanzi": "不仅",
+    "pinyin": "bùjǐn",
+    "pos": "连词",
+    "english": "not only",
+    "mongolian": "зөвхөн бус"
+  },
+  {
+    "hanzi": "不满",
+    "pinyin": "bùmǎn",
+    "pos": "形容词",
+    "english": "dissatisfied, displeased",
+    "mongolian": "сэтгэл дундуур"
+  },
+  {
+    "hanzi": "部门",
+    "pinyin": "bùmén",
+    "pos": "名词",
+    "english": "department, unit",
+    "mongolian": "хэлтэс"
+  },
+  {
+    "hanzi": "不如",
+    "pinyin": "bùrú",
+    "pos": "动词",
+    "english": "not as good as, inferior to",
+    "mongolian": "дутуу байх"
+  },
+  {
+    "hanzi": "擦",
+    "pinyin": "cā",
+    "pos": "动词",
+    "english": "to wipe, to rub",
+    "mongolian": "арчих"
+  },
+  {
+    "hanzi": "猜",
+    "pinyin": "cāi",
+    "pos": "动词",
+    "english": "to guess",
+    "mongolian": "таамаглах"
+  },
+  {
+    "hanzi": "材料",
+    "pinyin": "cáiliào",
+    "pos": "名词",
+    "english": "material, data",
+    "mongolian": "материал"
+  },
+  {
+    "hanzi": "参观",
+    "pinyin": "cānguān",
+    "pos": "动词",
+    "english": "to visit, to tour",
+    "mongolian": "үзэх, зочлох"
+  },
+  {
+    "hanzi": "参赛",
+    "pinyin": "cānsài",
+    "pos": "动词",
+    "english": "to enter a competition",
+    "mongolian": "тэмцээнд оролцох"
+  },
+  {
+    "hanzi": "餐厅",
+    "pinyin": "cāntīng",
+    "pos": "名词",
+    "english": "restaurant, dining hall",
+    "mongolian": "ресторан"
+  },
+  {
+    "hanzi": "操场",
+    "pinyin": "cāochǎng",
+    "pos": "名词",
+    "english": "playground",
+    "mongolian": "спорт талбай"
+  },
+  {
+    "hanzi": "厕所",
+    "pinyin": "cèsuǒ",
+    "pos": "名词",
+    "english": "toilet, restroom",
+    "mongolian": "жорлон"
+  },
+  {
+    "hanzi": "查看",
+    "pinyin": "chákàn",
+    "pos": "动词",
+    "english": "to check, to view",
+    "mongolian": "шалгаж үзэх"
+  },
+  {
+    "hanzi": "茶叶",
+    "pinyin": "cháyè",
+    "pos": "名词",
+    "english": "tea leaf",
+    "mongolian": "цайны навч"
+  },
+  {
+    "hanzi": "查找",
+    "pinyin": "cházhǎo",
+    "pos": "动词",
+    "english": "to search for, to look up",
+    "mongolian": "хайж олох"
+  },
+  {
+    "hanzi": "差点儿",
+    "pinyin": "chàdiǎnr",
+    "pos": "形/副词",
+    "english": "poor, not good enough; almost, nearly",
+    "mongolian": "бараг"
+  },
+  {
+    "hanzi": "产生",
+    "pinyin": "chǎnshēng",
+    "pos": "动词",
+    "english": "to produce, to generate, to arise",
+    "mongolian": "үүсэх"
+  },
+  {
+    "hanzi": "厂",
+    "pinyin": "chǎng",
+    "pos": "名词",
+    "english": "factory, plant",
+    "mongolian": "үйлдвэр"
+  },
+  {
+    "hanzi": "场",
+    "pinyin": "chǎng",
+    "pos": "量词",
+    "english": "measure word for events, performances, etc.",
+    "mongolian": "арга хэмжээ тоолох үг"
+  },
+  {
+    "hanzi": "超过",
+    "pinyin": "chāoguò",
+    "pos": "动词",
+    "english": "to exceed, to surpass",
+    "mongolian": "давах"
+  },
+  {
+    "hanzi": "车速",
+    "pinyin": "chēsù",
+    "pos": "名词",
+    "english": "vehicle speed",
+    "mongolian": "тээврийн хурд"
+  },
+  {
+    "hanzi": "车位",
+    "pinyin": "chēwèi",
+    "pos": "名词",
+    "english": "parking space",
+    "mongolian": "зогсоолын байр"
+  },
+  {
+    "hanzi": "城",
+    "pinyin": "chéng",
+    "pos": "名词",
+    "english": "city, town",
+    "mongolian": "хот"
+  },
+  {
+    "hanzi": "乘",
+    "pinyin": "chéng",
+    "pos": "动词",
+    "english": "to ride, to take, to multiply",
+    "mongolian": "суух (унаанд)"
+  },
+  {
+    "hanzi": "成功",
+    "pinyin": "chénggōng",
+    "pos": "动/形容词",
+    "english": "to succeed; successful",
+    "mongolian": "амжилтанд хүрэх"
+  },
+  {
+    "hanzi": "乘客",
+    "pinyin": "chéngkè",
+    "pos": "名词",
+    "english": "passenger",
+    "mongolian": "зорчигч"
+  },
+  {
+    "hanzi": "诚实",
+    "pinyin": "chéngshí",
+    "pos": "形容词",
+    "english": "honest",
+    "mongolian": "шударга үнэнч"
+  },
+  {
+    "hanzi": "成为",
+    "pinyin": "chéngwéi",
+    "pos": "动词",
+    "english": "to become",
+    "mongolian": "болох"
+  },
+  {
+    "hanzi": "乘坐",
+    "pinyin": "chéngzuò",
+    "pos": "动词",
+    "english": "to ride, to take transportation",
+    "mongolian": "суух (унаанд)"
+  },
+  {
+    "hanzi": "吃惊",
+    "pinyin": "chījīng",
+    "pos": "动词",
+    "english": "to be startled, to be shocked",
+    "mongolian": "цочих"
+  },
+  {
+    "hanzi": "迟",
+    "pinyin": "chí",
+    "pos": "形容词",
+    "english": "late, delayed",
+    "mongolian": "хоцорсон"
+  },
+  {
+    "hanzi": "重",
+    "pinyin": "chóng",
+    "pos": "副词",
+    "english": "again, once more; (to repeat)",
+    "mongolian": "дахин"
+  },
+  {
+    "hanzi": "重新",
+    "pinyin": "chóngxīn",
+    "pos": "副词",
+    "english": "again, anew",
+    "mongolian": "дахин"
+  },
+  {
+    "hanzi": "出差",
+    "pinyin": "chūchāi",
+    "pos": "动词",
+    "english": "to go on a business trip",
+    "mongolian": "томилолтоор явах"
+  },
+  {
+    "hanzi": "出口",
+    "pinyin": "chūkǒu",
+    "pos": "名词",
+    "english": "exit; (to export)",
+    "mongolian": "гарц"
+  },
+  {
+    "hanzi": "出现",
+    "pinyin": "chūxiàn",
+    "pos": "动词",
+    "english": "to appear, to emerge",
+    "mongolian": "гарч ирэх"
+  },
+  {
+    "hanzi": "出行",
+    "pinyin": "chūxíng",
+    "pos": "动词",
+    "english": "to travel, to go out",
+    "mongolian": "аялах, гарч явах"
+  },
+  {
+    "hanzi": "出租",
+    "pinyin": "chūzū",
+    "pos": "动词",
+    "english": "to rent out",
+    "mongolian": "түрээслүүлэх"
+  },
+  {
+    "hanzi": "厨房",
+    "pinyin": "chúfáng",
+    "pos": "名词",
+    "english": "kitchen",
+    "mongolian": "гал тогоо"
+  },
+  {
+    "hanzi": "厨师",
+    "pinyin": "chúshī",
+    "pos": "名词",
+    "english": "chef, cook",
+    "mongolian": "тогооч"
+  },
+  {
+    "hanzi": "窗",
+    "pinyin": "chuāng",
+    "pos": "名词",
+    "english": "window",
+    "mongolian": "цонх"
+  },
+  {
+    "hanzi": "窗户",
+    "pinyin": "chuānghu",
+    "pos": "名词",
+    "english": "window",
+    "mongolian": "цонх"
+  },
+  {
+    "hanzi": "吹",
+    "pinyin": "chuī",
+    "pos": "动词",
+    "english": "to blow",
+    "mongolian": "үлээх"
+  },
+  {
+    "hanzi": "词语",
+    "pinyin": "cíyǔ",
+    "pos": "名词",
+    "english": "word, phrase",
+    "mongolian": "үг хэллэг"
+  },
+  {
+    "hanzi": "此",
+    "pinyin": "cǐ",
+    "pos": "代词",
+    "english": "this",
+    "mongolian": "энэ"
+  },
+  {
+    "hanzi": "此次",
+    "pinyin": "cǐ cì",
+    "pos": "名词",
+    "english": "this time",
+    "mongolian": "энэ удаа"
+  },
+  {
+    "hanzi": "此外",
+    "pinyin": "cǐwài",
+    "pos": "连词",
+    "english": "besides, in addition, moreover",
+    "mongolian": "түүнчлэн"
+  },
+  {
+    "hanzi": "从此",
+    "pinyin": "cóngcǐ",
+    "pos": "副词",
+    "english": "from then on, since then",
+    "mongolian": "тэр цагаас хойш"
+  },
+  {
+    "hanzi": "从来",
+    "pinyin": "cónglái",
+    "pos": "副词",
+    "english": "always, at all times",
+    "mongolian": "хэзээ ч"
+  },
+  {
+    "hanzi": "从中",
+    "pinyin": "cóngzhōng",
+    "pos": "副词",
+    "english": "from among, from it",
+    "mongolian": "түүнээс"
+  },
+  {
+    "hanzi": "粗",
+    "pinyin": "cū",
+    "pos": "形容词",
+    "english": "coarse, rough, thick",
+    "mongolian": "бүдүүн"
+  },
+  {
+    "hanzi": "粗心",
+    "pinyin": "cūxīn",
+    "pos": "形容词",
+    "english": "careless",
+    "mongolian": "болгоомжгүй"
+  },
+  {
+    "hanzi": "村",
+    "pinyin": "cūn",
+    "pos": "名词",
+    "english": "village",
+    "mongolian": "тосгон"
+  },
+  {
+    "hanzi": "存",
+    "pinyin": "cún",
+    "pos": "动词",
+    "english": "to store, to keep, to exist",
+    "mongolian": "хадгалах"
+  },
+  {
+    "hanzi": "错过",
+    "pinyin": "cuòguò",
+    "pos": "动词",
+    "english": "to miss, to let slip",
+    "mongolian": "алдах (боломж)"
+  },
+  {
+    "hanzi": "错误",
+    "pinyin": "cuòwù",
+    "pos": "形/名词",
+    "english": "wrong, mistaken; mistake, error",
+    "mongolian": "буруу; алдаа"
+  },
+  {
+    "hanzi": "答应",
+    "pinyin": "dāying",
+    "pos": "动词",
+    "english": "to agree, to promise, to reply",
+    "mongolian": "амлах, зөвшөөрөх"
+  },
+  {
+    "hanzi": "答",
+    "pinyin": "dá",
+    "pos": "动词",
+    "english": "to answer, to reply",
+    "mongolian": "хариулах"
+  },
+  {
+    "hanzi": "答案",
+    "pinyin": "dá'àn",
+    "pos": "名词",
+    "english": "answer, solution",
+    "mongolian": "хариулт"
+  },
+  {
+    "hanzi": "达到",
+    "pinyin": "dádào",
+    "pos": "动词",
+    "english": "to reach, to achieve",
+    "mongolian": "хүрэх, биелүүлэх"
+  },
+  {
+    "hanzi": "打招呼",
+    "pinyin": "dǎ zhāohu",
+    "pos": "动词",
+    "english": "to greet, to say hello",
+    "mongolian": "мэндчилэх"
+  },
+  {
+    "hanzi": "打败",
+    "pinyin": "dǎbài",
+    "pos": "动词",
+    "english": "to defeat, to beat",
+    "mongolian": "ялах"
+  },
+  {
+    "hanzi": "打工",
+    "pinyin": "dǎgōng",
+    "pos": "动词",
+    "english": "to work a temporary job",
+    "mongolian": "түр ажил хийх"
+  },
+  {
+    "hanzi": "打扰",
+    "pinyin": "dǎrǎo",
+    "pos": "动词",
+    "english": "to disturb, to bother",
+    "mongolian": "саад учруулах"
+  },
+  {
+    "hanzi": "打印",
+    "pinyin": "dǎyìn",
+    "pos": "动词",
+    "english": "to print",
+    "mongolian": "хэвлэх"
+  },
+  {
+    "hanzi": "打印机",
+    "pinyin": "dǎyìnjī",
+    "pos": "名词",
+    "english": "printer",
+    "mongolian": "хэвлэгч"
+  },
+  {
+    "hanzi": "打折",
+    "pinyin": "dǎzhé",
+    "pos": "动词",
+    "english": "to give a discount",
+    "mongolian": "хямдруулах"
+  },
+  {
+    "hanzi": "打针",
+    "pinyin": "dǎzhēn",
+    "pos": "动词",
+    "english": "to get an injection, to receive a shot",
+    "mongolian": "тариа хийлгэх"
+  },
+  {
+    "hanzi": "大巴",
+    "pinyin": "dàbā",
+    "pos": "名词",
+    "english": "large bus, coach",
+    "mongolian": "том автобус"
+  },
+  {
+    "hanzi": "大大",
+    "pinyin": "dàdà",
+    "pos": "副词",
+    "english": "greatly, significantly",
+    "mongolian": "ихээхэн"
+  },
+  {
+    "hanzi": "大夫",
+    "pinyin": "dàifu",
+    "pos": "名词",
+    "english": "doctor (medical)",
+    "mongolian": "эмч"
+  },
+  {
+    "hanzi": "大量",
+    "pinyin": "dàliàng",
+    "pos": "形容词",
+    "english": "large quantity, a large amount",
+    "mongolian": "их хэмжээний"
+  },
+  {
+    "hanzi": "大赛",
+    "pinyin": "dàsài",
+    "pos": "名词",
+    "english": "major competition, grand contest",
+    "mongolian": "том тэмцээн"
+  },
+  {
+    "hanzi": "大厅",
+    "pinyin": "dàtīng",
+    "pos": "名词",
+    "english": "hall, lobby",
+    "mongolian": "танхим"
+  },
+  {
+    "hanzi": "大约",
+    "pinyin": "dàyuē",
+    "pos": "副词",
+    "english": "approximately, about",
+    "mongolian": "ойролцоогоор"
+  },
+  {
+    "hanzi": "大自然",
+    "pinyin": "dàzìrán",
+    "pos": "名词",
+    "english": "nature, the natural world",
+    "mongolian": "байгаль"
+  },
+  {
+    "hanzi": "待",
+    "pinyin": "dāi",
+    "pos": "动词",
+    "english": "to stay",
+    "mongolian": "байх, саатах"
+  },
+  {
+    "hanzi": "戴",
+    "pinyin": "dài",
+    "pos": "动词",
+    "english": "to wear, to put on",
+    "mongolian": "өмсөх"
+  },
+  {
+    "hanzi": "袋子",
+    "pinyin": "dàizi",
+    "pos": "名词",
+    "english": "bag, sack",
+    "mongolian": "уут"
+  },
+  {
+    "hanzi": "单位",
+    "pinyin": "dānwèi",
+    "pos": "名词",
+    "english": "unit, department",
+    "mongolian": "байгууллага"
+  },
+  {
+    "hanzi": "当",
+    "pinyin": "dāng",
+    "pos": "动/介词",
+    "english": "to serve as, to be; at the time of",
+    "mongolian": "байх; тухайн үед"
+  },
+  {
+    "hanzi": "当时",
+    "pinyin": "dāngshí",
+    "pos": "名词",
+    "english": "at that time, then",
+    "mongolian": "тухайн үед"
+  },
+  {
+    "hanzi": "刀",
+    "pinyin": "dāo",
+    "pos": "名词",
+    "english": "knife",
+    "mongolian": "хутга"
+  },
+  {
+    "hanzi": "导游",
+    "pinyin": "dǎoyóu",
+    "pos": "名/动词",
+    "english": "tour guide; to guide",
+    "mongolian": "жуулчны хөтөч"
+  },
+  {
+    "hanzi": "倒",
+    "pinyin": "dào",
+    "pos": "动词",
+    "english": "to fall, to collapse; (however, but)",
+    "mongolian": "унах, хальтрах"
+  },
+  {
+    "hanzi": "道",
+    "pinyin": "dào",
+    "pos": "名/量词",
+    "english": "path, way, method; measure word for long objects",
+    "mongolian": "зам, арга"
+  },
+  {
+    "hanzi": "到底",
+    "pinyin": "dàodǐ",
+    "pos": "副词",
+    "english": "finally, after all, to the end",
+    "mongolian": "эцэст нь"
+  },
+  {
+    "hanzi": "到来",
+    "pinyin": "dàolái",
+    "pos": "动词",
+    "english": "to arrive",
+    "mongolian": "ирэх"
+  },
+  {
+    "hanzi": "道路",
+    "pinyin": "dàolù",
+    "pos": "名词",
+    "english": "road, path",
+    "mongolian": "зам"
+  },
+  {
+    "hanzi": "道歉",
+    "pinyin": "dàoqiàn",
+    "pos": "动词",
+    "english": "to apologize",
+    "mongolian": "уучлал хүсэх"
+  },
+  {
+    "hanzi": "得意",
+    "pinyin": "déyì",
+    "pos": "形容词",
+    "english": "proud, complacent",
+    "mongolian": "сэтгэл хангалуун"
+  },
+  {
+    "hanzi": "登机",
+    "pinyin": "dēngjī",
+    "pos": "动词",
+    "english": "to board a plane",
+    "mongolian": "онгоцонд суух"
+  },
+  {
+    "hanzi": "等",
+    "pinyin": "děng",
+    "pos": "助词",
+    "english": "and so on, etc.; (class, grade; measure word)",
+    "mongolian": "гэх мэт"
+  },
+  {
+    "hanzi": "等到",
+    "pinyin": "děngdào",
+    "pos": "介词",
+    "english": "until, by the time",
+    "mongolian": "хүртэл"
+  },
+  {
+    "hanzi": "低",
+    "pinyin": "dī",
+    "pos": "形/动词",
+    "english": "low; to lower",
+    "mongolian": "нам"
+  },
+  {
+    "hanzi": "低价",
+    "pinyin": "dījià",
+    "pos": "名词",
+    "english": "low price",
+    "mongolian": "хямд үнэ"
+  },
+  {
+    "hanzi": "低温",
+    "pinyin": "dīwēn",
+    "pos": "名词",
+    "english": "low temperature",
+    "mongolian": "бага температур"
+  },
+  {
+    "hanzi": "低于",
+    "pinyin": "dīyú",
+    "pos": "动词",
+    "english": "to be lower than",
+    "mongolian": "-аас бага байх"
+  },
+  {
+    "hanzi": "底",
+    "pinyin": "dǐ",
+    "pos": "名词",
+    "english": "bottom, base",
+    "mongolian": "ёроол"
+  },
+  {
+    "hanzi": "底下",
+    "pinyin": "dǐxia",
+    "pos": "名词",
+    "english": "below, underneath",
+    "mongolian": "доор"
+  },
+  {
+    "hanzi": "地球",
+    "pinyin": "dìqiú",
+    "pos": "名词",
+    "english": "earth",
+    "mongolian": "дэлхий"
+  },
+  {
+    "hanzi": "地址",
+    "pinyin": "dìzhǐ",
+    "pos": "名词",
+    "english": "address",
+    "mongolian": "хаяг"
+  },
+  {
+    "hanzi": "点名",
+    "pinyin": "diǎnmíng",
+    "pos": "动词",
+    "english": "to call the roll, to mention by name",
+    "mongolian": "нэрээр дуудах"
+  },
+  {
+    "hanzi": "点头",
+    "pinyin": "diǎntóu",
+    "pos": "动词",
+    "english": "to nod",
+    "mongolian": "толгой дохих"
+  },
+  {
+    "hanzi": "电动车",
+    "pinyin": "diàndòngchē",
+    "pos": "名词",
+    "english": "electric vehicle, e-bike",
+    "mongolian": "цахилгаан унаа"
+  },
+  {
+    "hanzi": "电视剧",
+    "pinyin": "diànshìjù",
+    "pos": "名词",
+    "english": "TV drama",
+    "mongolian": "телевизийн цуврал"
+  },
+  {
+    "hanzi": "掉",
+    "pinyin": "diào",
+    "pos": "动词",
+    "english": "to fall, to drop",
+    "mongolian": "унах"
+  },
+  {
+    "hanzi": "调查",
+    "pinyin": "diàochá",
+    "pos": "动词",
+    "english": "to investigate",
+    "mongolian": "судлах, шалгах"
+  },
+  {
+    "hanzi": "订",
+    "pinyin": "dìng",
+    "pos": "动词",
+    "english": "to order, to book",
+    "mongolian": "захиалах"
+  },
+  {
+    "hanzi": "定",
+    "pinyin": "dìng",
+    "pos": "动词",
+    "english": "to fix, to set, to determine",
+    "mongolian": "тогтоох"
+  },
+  {
+    "hanzi": "东部",
+    "pinyin": "dōngbù",
+    "pos": "名词",
+    "english": "eastern part",
+    "mongolian": "зүүн хэсэг"
+  },
+  {
+    "hanzi": "动车",
+    "pinyin": "dòngchē",
+    "pos": "名词",
+    "english": "high-speed train",
+    "mongolian": "хурдны галт тэрэг"
+  },
+  {
+    "hanzi": "动作",
+    "pinyin": "dòngzuò",
+    "pos": "名词",
+    "english": "movement, action",
+    "mongolian": "хөдөлгөөн"
+  },
+  {
+    "hanzi": "读者",
+    "pinyin": "dúzhě",
+    "pos": "名词",
+    "english": "reader",
+    "mongolian": "уншигч"
+  },
+  {
+    "hanzi": "堵车",
+    "pinyin": "dǔchē",
+    "pos": "动词",
+    "english": "traffic jam",
+    "mongolian": "замын түгжрэл"
+  },
+  {
+    "hanzi": "度假",
+    "pinyin": "dùjià",
+    "pos": "动词",
+    "english": "to go on vacation",
+    "mongolian": "амралт зусах"
+  },
+  {
+    "hanzi": "肚子",
+    "pinyin": "dùzi",
+    "pos": "名词",
+    "english": "belly, stomach",
+    "mongolian": "гэдэс"
+  },
+  {
+    "hanzi": "短信",
+    "pinyin": "duǎnxìn",
+    "pos": "名词",
+    "english": "text message",
+    "mongolian": "мессеж"
+  },
+  {
+    "hanzi": "队",
+    "pinyin": "duì",
+    "pos": "名/量词",
+    "english": "team, squad; (measure word for teams)",
+    "mongolian": "баг"
+  },
+  {
+    "hanzi": "对方",
+    "pinyin": "duìfāng",
+    "pos": "名词",
+    "english": "the other party, counterpart",
+    "mongolian": "нөгөө тал"
+  },
+  {
+    "hanzi": "对面",
+    "pinyin": "duìmiàn",
+    "pos": "名词",
+    "english": "opposite side",
+    "mongolian": "эсрэг тал"
+  },
+  {
+    "hanzi": "对于",
+    "pinyin": "duìyú",
+    "pos": "介词",
+    "english": "regarding, concerning",
+    "mongolian": "-ний тухайд"
+  },
+  {
+    "hanzi": "队员",
+    "pinyin": "duìyuán",
+    "pos": "名词",
+    "english": "team member",
+    "mongolian": "багийн гишүүн"
+  },
+  {
+    "hanzi": "队长",
+    "pinyin": "duìzhǎng",
+    "pos": "名词",
+    "english": "team leader",
+    "mongolian": "ахлагч"
+  },
+  {
+    "hanzi": "顿",
+    "pinyin": "dùn",
+    "pos": "量词",
+    "english": "measure word for meals, scolding; (to pause)",
+    "mongolian": "удаа тоолох үг (хоол)"
+  },
+  {
+    "hanzi": "多么",
+    "pinyin": "duōme",
+    "pos": "副词",
+    "english": "how, so, what",
+    "mongolian": "хичнээн"
+  },
+  {
+    "hanzi": "多数",
+    "pinyin": "duōshù",
+    "pos": "名词",
+    "english": "majority",
+    "mongolian": "ихэнх"
+  },
+  {
+    "hanzi": "多样",
+    "pinyin": "duōyàng",
+    "pos": "形容词",
+    "english": "diverse, varied",
+    "mongolian": "олон янз"
+  },
+  {
+    "hanzi": "而",
+    "pinyin": "ér",
+    "pos": "连词",
+    "english": "but, and, yet",
+    "mongolian": "харин"
+  },
+  {
+    "hanzi": "儿童",
+    "pinyin": "értóng",
+    "pos": "名词",
+    "english": "child",
+    "mongolian": "хүүхэд"
+  },
+  {
+    "hanzi": "发出",
+    "pinyin": "fāchū",
+    "pos": "动词",
+    "english": "to send out, to issue",
+    "mongolian": "гаргах"
+  },
+  {
+    "hanzi": "发送",
+    "pinyin": "fāsòng",
+    "pos": "动词",
+    "english": "to send",
+    "mongolian": "илгээх"
+  },
+  {
+    "hanzi": "法",
+    "pinyin": "fǎ",
+    "pos": "名词",
+    "english": "law",
+    "mongolian": "хууль"
+  },
+  {
+    "hanzi": "法律",
+    "pinyin": "fǎlǜ",
+    "pos": "名词",
+    "english": "law",
+    "mongolian": "хууль"
+  },
+  {
+    "hanzi": "翻译",
+    "pinyin": "fānyì",
+    "pos": "动/名词",
+    "english": "to translate; translation",
+    "mongolian": "орчуулах; орчуулга"
+  },
+  {
+    "hanzi": "烦",
+    "pinyin": "fán",
+    "pos": "形/动词",
+    "english": "annoyed, vexed; to bother",
+    "mongolian": "залхаах"
+  },
+  {
+    "hanzi": "烦恼",
+    "pinyin": "fánnǎo",
+    "pos": "形容词",
+    "english": "worried, distressed",
+    "mongolian": "санаа зовсон"
+  },
+  {
+    "hanzi": "反对",
+    "pinyin": "fǎnduì",
+    "pos": "动词",
+    "english": "to oppose, to be against",
+    "mongolian": "эсэргүүцэх"
+  },
+  {
+    "hanzi": "方面",
+    "pinyin": "fāngmiàn",
+    "pos": "名词",
+    "english": "aspect, side",
+    "mongolian": "тал"
+  },
+  {
+    "hanzi": "方式",
+    "pinyin": "fāngshì",
+    "pos": "名词",
+    "english": "way, method",
+    "mongolian": "арга"
+  },
+  {
+    "hanzi": "房东",
+    "pinyin": "fángdōng",
+    "pos": "名词",
+    "english": "landlord",
+    "mongolian": "түрээслэгч эзэн"
+  },
+  {
+    "hanzi": "房租",
+    "pinyin": "fángzū",
+    "pos": "名词",
+    "english": "rent",
+    "mongolian": "байрны түрээс"
+  },
+  {
+    "hanzi": "放弃",
+    "pinyin": "fàngqì",
+    "pos": "动词",
+    "english": "to give up",
+    "mongolian": "орхих, татгалзах"
+  },
+  {
+    "hanzi": "放松",
+    "pinyin": "fàngsōng",
+    "pos": "动词",
+    "english": "to relax",
+    "mongolian": "сулрах, тайвшрах"
+  },
+  {
+    "hanzi": "费",
+    "pinyin": "fèi",
+    "pos": "名/动词",
+    "english": "fee, expense; to spend",
+    "mongolian": "төлбөр"
+  },
+  {
+    "hanzi": "费用",
+    "pinyin": "fèiyong",
+    "pos": "名词",
+    "english": "cost, expense",
+    "mongolian": "зардал"
+  },
+  {
+    "hanzi": "分数",
+    "pinyin": "fēnshù",
+    "pos": "名词",
+    "english": "score, grade, fraction",
+    "mongolian": "дүн"
+  },
+  {
+    "hanzi": "分为",
+    "pinyin": "fēnwéi",
+    "pos": "动词",
+    "english": "to be divided into",
+    "mongolian": "хуваагдах"
+  },
+  {
+    "hanzi": "份",
+    "pinyin": "fèn",
+    "pos": "量词",
+    "english": "measure word for copies, shares",
+    "mongolian": "хувь тоолох үг"
+  },
+  {
+    "hanzi": "丰富",
+    "pinyin": "fēngfù",
+    "pos": "形容词",
+    "english": "rich, abundant",
+    "mongolian": "баялаг"
+  },
+  {
+    "hanzi": "风景",
+    "pinyin": "fēngjǐng",
+    "pos": "名词",
+    "english": "scenery, landscape",
+    "mongolian": "байгалийн үзэсгэлэн"
+  },
+  {
+    "hanzi": "否则",
+    "pinyin": "fǒuzé",
+    "pos": "连词",
+    "english": "otherwise, if not",
+    "mongolian": "эсвэл бол"
+  },
+  {
+    "hanzi": "幅",
+    "pinyin": "fú",
+    "pos": "量词",
+    "english": "measure word for paintings, photos, etc.",
+    "mongolian": "зураг тоолох үг"
+  },
+  {
+    "hanzi": "符合",
+    "pinyin": "fúhé",
+    "pos": "动词",
+    "english": "to conform to, to match",
+    "mongolian": "тохирох"
+  },
+  {
+    "hanzi": "付",
+    "pinyin": "fù",
+    "pos": "动词",
+    "english": "to pay",
+    "mongolian": "төлөх"
+  },
+  {
+    "hanzi": "父母",
+    "pinyin": "fùmǔ",
+    "pos": "名词",
+    "english": "parents",
+    "mongolian": "эцэг эх"
+  },
+  {
+    "hanzi": "父女",
+    "pinyin": "fùnǚ",
+    "pos": "名词",
+    "english": "father and daughter",
+    "mongolian": "аав охин"
+  },
+  {
+    "hanzi": "父亲",
+    "pinyin": "fùqīn",
+    "pos": "名词",
+    "english": "father",
+    "mongolian": "эцэг"
+  },
+  {
+    "hanzi": "复印",
+    "pinyin": "fùyìn",
+    "pos": "动词",
+    "english": "to photocopy, to duplicate",
+    "mongolian": "хувилах"
+  },
+  {
+    "hanzi": "复杂",
+    "pinyin": "fùzá",
+    "pos": "形容词",
+    "english": "complicated, complex",
+    "mongolian": "төвөгтэй"
+  },
+  {
+    "hanzi": "负责",
+    "pinyin": "fùzé",
+    "pos": "动/形容词",
+    "english": "to be responsible; responsible",
+    "mongolian": "хариуцах"
+  },
+  {
+    "hanzi": "负责人",
+    "pinyin": "fùzérén",
+    "pos": "名词",
+    "english": "person in charge",
+    "mongolian": "хариуцагч"
+  },
+  {
+    "hanzi": "父子",
+    "pinyin": "fùzǐ",
+    "pos": "名词",
+    "english": "father and son",
+    "mongolian": "аав хүү"
+  },
+  {
+    "hanzi": "改",
+    "pinyin": "gǎi",
+    "pos": "动词",
+    "english": "to change, to alter",
+    "mongolian": "өөрчлөх"
+  },
+  {
+    "hanzi": "改变",
+    "pinyin": "gǎibiàn",
+    "pos": "动词",
+    "english": "to change",
+    "mongolian": "өөрчлөх"
+  },
+  {
+    "hanzi": "干",
+    "pinyin": "gān",
+    "pos": "形容词",
+    "english": "dry; (dried food)",
+    "mongolian": "хуурай"
+  },
+  {
+    "hanzi": "干杯",
+    "pinyin": "gānbēi",
+    "pos": "动词",
+    "english": "to toast, cheers",
+    "mongolian": "аяга дэрвэлзэх"
+  },
+  {
+    "hanzi": "赶",
+    "pinyin": "gǎn",
+    "pos": "动词",
+    "english": "to hurry, to catch up",
+    "mongolian": "яарах"
+  },
+  {
+    "hanzi": "敢",
+    "pinyin": "gǎn",
+    "pos": "动词",
+    "english": "to dare",
+    "mongolian": "зориглох"
+  },
+  {
+    "hanzi": "感",
+    "pinyin": "gǎn",
+    "pos": "后缀",
+    "english": "sense, feeling, as suffix",
+    "mongolian": "мэдрэмж заах дагавар"
+  },
+  {
+    "hanzi": "感动",
+    "pinyin": "gǎndòng",
+    "pos": "形/动词",
+    "english": "moved, touched; to move, to touch",
+    "mongolian": "сэтгэл хөдлөх"
+  },
+  {
+    "hanzi": "赶紧",
+    "pinyin": "gǎnjǐn",
+    "pos": "副词",
+    "english": "quickly, promptly",
+    "mongolian": "яаралтай"
+  },
+  {
+    "hanzi": "感觉",
+    "pinyin": "gǎnjué",
+    "pos": "名/动词",
+    "english": "feeling, sense; to feel",
+    "mongolian": "мэдрэмж; мэдрэх"
+  },
+  {
+    "hanzi": "赶快",
+    "pinyin": "gǎnkuài",
+    "pos": "副词",
+    "english": "quickly, at once",
+    "mongolian": "хурдан"
+  },
+  {
+    "hanzi": "感情",
+    "pinyin": "gǎnqíng",
+    "pos": "名词",
+    "english": "emotion, feeling",
+    "mongolian": "мэдрэмж"
+  },
+  {
+    "hanzi": "感人",
+    "pinyin": "gǎnrén",
+    "pos": "形容词",
+    "english": "touching, moving",
+    "mongolian": "сэтгэл хөдөлгөм"
+  },
+  {
+    "hanzi": "赶上",
+    "pinyin": "gǎnshàng",
+    "pos": "动词",
+    "english": "to catch up, to keep up with",
+    "mongolian": "гүйцэж түрүүлэх"
+  },
+  {
+    "hanzi": "感受",
+    "pinyin": "gǎnshòu",
+    "pos": "动/名词",
+    "english": "feeling, experience; to feel",
+    "mongolian": "мэдрэх; мэдрэмж"
+  },
+  {
+    "hanzi": "感谢",
+    "pinyin": "gǎnxiè",
+    "pos": "动词",
+    "english": "to thank",
+    "mongolian": "талархах"
+  },
+  {
+    "hanzi": "干活儿",
+    "pinyin": "gànhuór",
+    "pos": "动词",
+    "english": "to work",
+    "mongolian": "ажил хийх"
+  },
+  {
+    "hanzi": "钢琴",
+    "pinyin": "gāngqín",
+    "pos": "名词",
+    "english": "piano",
+    "mongolian": "төгөлдөр хуур"
+  },
+  {
+    "hanzi": "高价",
+    "pinyin": "gāojià",
+    "pos": "名词",
+    "english": "high price",
+    "mongolian": "өндөр үнэ"
+  },
+  {
+    "hanzi": "高考",
+    "pinyin": "gāokǎo",
+    "pos": "名词",
+    "english": "Gaokao, college entrance examination",
+    "mongolian": "их сургуулийн элсэлтийн шалгалт"
+  },
+  {
+    "hanzi": "高速",
+    "pinyin": "gāosù",
+    "pos": "形容词",
+    "english": "high speed",
+    "mongolian": "хурдтай"
+  },
+  {
+    "hanzi": "高温",
+    "pinyin": "gāowēn",
+    "pos": "名词",
+    "english": "high temperature",
+    "mongolian": "өндөр температур"
+  },
+  {
+    "hanzi": "高于",
+    "pinyin": "gāoyú",
+    "pos": "动词",
+    "english": "higher than, above",
+    "mongolian": "-аас дээгүүр байх"
+  },
+  {
+    "hanzi": "胳膊",
+    "pinyin": "gēbo",
+    "pos": "名词",
+    "english": "arm",
+    "mongolian": "гар"
+  },
+  {
+    "hanzi": "歌声",
+    "pinyin": "gēshēng",
+    "pos": "名词",
+    "english": "sound of singing, song",
+    "mongolian": "дуулах дуу"
+  },
+  {
+    "hanzi": "歌手",
+    "pinyin": "gēshǒu",
+    "pos": "名词",
+    "english": "singer",
+    "mongolian": "дуучин"
+  },
+  {
+    "hanzi": "各",
+    "pinyin": "gè",
+    "pos": "代/副词",
+    "english": "each, every; respectively",
+    "mongolian": "тус бүр"
+  },
+  {
+    "hanzi": "各地",
+    "pinyin": "gèdì",
+    "pos": "名词",
+    "english": "various places",
+    "mongolian": "тус бүрийн газар"
+  },
+  {
+    "hanzi": "各个",
+    "pinyin": "gègè",
+    "pos": "代/副词",
+    "english": "each, every; one by one",
+    "mongolian": "тус бүр"
+  },
+  {
+    "hanzi": "各位",
+    "pinyin": "gèwèi",
+    "pos": "代词",
+    "english": "everyone, all (respectful)",
+    "mongolian": "та бүхэн"
+  },
+  {
+    "hanzi": "各种",
+    "pinyin": "gèzhǒng",
+    "pos": "代词",
+    "english": "various kinds, all kinds",
+    "mongolian": "төрөл бүрийн"
+  },
+  {
+    "hanzi": "更加",
+    "pinyin": "gèngjiā",
+    "pos": "副词",
+    "english": "more, even more",
+    "mongolian": "улам"
+  },
+  {
+    "hanzi": "工厂",
+    "pinyin": "gōngchǎng",
+    "pos": "名词",
+    "english": "factory",
+    "mongolian": "үйлдвэр"
+  },
+  {
+    "hanzi": "功夫",
+    "pinyin": "gōngfu",
+    "pos": "名词",
+    "english": "kung fu, skill, effort",
+    "mongolian": "ур чадвар, кунг фү"
+  },
+  {
+    "hanzi": "公共",
+    "pinyin": "gōnggòng",
+    "pos": "形容词",
+    "english": "public, common",
+    "mongolian": "нийтийн"
+  },
+  {
+    "hanzi": "功课",
+    "pinyin": "gōngkè",
+    "pos": "名词",
+    "english": "schoolwork, homework",
+    "mongolian": "хичээл"
+  },
+  {
+    "hanzi": "公里",
+    "pinyin": "gōnglǐ",
+    "pos": "量词",
+    "english": "kilometer",
+    "mongolian": "километр"
+  },
+  {
+    "hanzi": "公路",
+    "pinyin": "gōnglù",
+    "pos": "名词",
+    "english": "highway, road",
+    "mongolian": "хурдны зам"
+  },
+  {
+    "hanzi": "工人",
+    "pinyin": "gōngrén",
+    "pos": "名词",
+    "english": "worker",
+    "mongolian": "ажилчин"
+  },
+  {
+    "hanzi": "工资",
+    "pinyin": "gōngzī",
+    "pos": "名词",
+    "english": "wage, salary",
+    "mongolian": "цалин"
+  },
+  {
+    "hanzi": "共",
+    "pinyin": "gòng",
+    "pos": "副词",
+    "english": "together, in total",
+    "mongolian": "нийт"
+  },
+  {
+    "hanzi": "共同",
+    "pinyin": "gòngtóng",
+    "pos": "形容词",
+    "english": "common, joint",
+    "mongolian": "хамтын"
+  },
+  {
+    "hanzi": "够",
+    "pinyin": "gòu",
+    "pos": "动/副词",
+    "english": "enough; sufficiently",
+    "mongolian": "хангалттай"
+  },
+  {
+    "hanzi": "购买",
+    "pinyin": "gòumǎi",
+    "pos": "动词",
+    "english": "to purchase",
+    "mongolian": "худалдан авах"
+  },
+  {
+    "hanzi": "购物",
+    "pinyin": "gòuwù",
+    "pos": "动词",
+    "english": "to shop",
+    "mongolian": "худалдаа хийх"
+  },
+  {
+    "hanzi": "估计",
+    "pinyin": "gūjì",
+    "pos": "动词",
+    "english": "to estimate, to guess",
+    "mongolian": "тооцоолох"
+  },
+  {
+    "hanzi": "姑娘",
+    "pinyin": "gūniang",
+    "pos": "名词",
+    "english": "girl",
+    "mongolian": "охин"
+  },
+  {
+    "hanzi": "鼓励",
+    "pinyin": "gǔlì",
+    "pos": "动词",
+    "english": "to encourage",
+    "mongolian": "урамшуулах"
+  },
+  {
+    "hanzi": "顾客",
+    "pinyin": "gùkè",
+    "pos": "名词",
+    "english": "customer",
+    "mongolian": "үйлчлүүлэгч"
+  },
+  {
+    "hanzi": "故意",
+    "pinyin": "gùyì",
+    "pos": "副词",
+    "english": "deliberately, on purpose",
+    "mongolian": "санаатайгаар"
+  },
+  {
+    "hanzi": "挂",
+    "pinyin": "guà",
+    "pos": "动词",
+    "english": "to hang, to suspend",
+    "mongolian": "өлгөх"
+  },
+  {
+    "hanzi": "关键",
+    "pinyin": "guānjiàn",
+    "pos": "名/形容词",
+    "english": "crux; key, crucial",
+    "mongolian": "гол чухал зүйл"
+  },
+  {
+    "hanzi": "观看",
+    "pinyin": "guānkàn",
+    "pos": "动词",
+    "english": "to watch, to view",
+    "mongolian": "үзэх"
+  },
+  {
+    "hanzi": "观众",
+    "pinyin": "guānzhòng",
+    "pos": "名词",
+    "english": "audience",
+    "mongolian": "үзэгчид"
+  },
+  {
+    "hanzi": "管",
+    "pinyin": "guǎn",
+    "pos": "动词",
+    "english": "control, manage, care about, bother with; (pipe, tube)",
+    "mongolian": "удирдах, хамаарах"
+  },
+  {
+    "hanzi": "管理",
+    "pinyin": "guǎnlǐ",
+    "pos": "动词",
+    "english": "manage",
+    "mongolian": "удирдах"
+  },
+  {
+    "hanzi": "光",
+    "pinyin": "guāng",
+    "pos": "名/形/动/副词",
+    "english": "light, ray; smooth, shiny, used up; bare, expose; only, merely, solely",
+    "mongolian": "гэрэл"
+  },
+  {
+    "hanzi": "广播",
+    "pinyin": "guǎngbō",
+    "pos": "动/名词",
+    "english": "broadcast, air; radio broadcast, broadcasting",
+    "mongolian": "нэвтрүүлэх; радио нэвтрүүлэг"
+  },
+  {
+    "hanzi": "广告",
+    "pinyin": "guǎnggào",
+    "pos": "名词",
+    "english": "advertisement",
+    "mongolian": "сурталчилгаа"
+  },
+  {
+    "hanzi": "逛",
+    "pinyin": "guàng",
+    "pos": "动词",
+    "english": "stroll, roam, browse, shop around",
+    "mongolian": "тэнүүчлэх"
+  },
+  {
+    "hanzi": "规定",
+    "pinyin": "guīdìng",
+    "pos": "动/名词",
+    "english": "stipulate, prescribe, set rules; regulation, rule, stipulation",
+    "mongolian": "тогтоох; дүрэм"
+  },
+  {
+    "hanzi": "国籍",
+    "pinyin": "guójí",
+    "pos": "名词",
+    "english": "nationality",
+    "mongolian": "иргэний харьяалал"
+  },
+  {
+    "hanzi": "国际",
+    "pinyin": "guójì",
+    "pos": "形/名词",
+    "english": "international; world",
+    "mongolian": "олон улсын"
+  },
+  {
+    "hanzi": "果汁",
+    "pinyin": "guǒzhī",
+    "pos": "名词",
+    "english": "fruit juice",
+    "mongolian": "жимсний шүүс"
+  },
+  {
+    "hanzi": "过程",
+    "pinyin": "guòchéng",
+    "pos": "名词",
+    "english": "process",
+    "mongolian": "явц"
+  },
+  {
+    "hanzi": "海洋",
+    "pinyin": "hǎiyáng",
+    "pos": "名词",
+    "english": "ocean, sea",
+    "mongolian": "далай"
+  },
+  {
+    "hanzi": "害羞",
+    "pinyin": "hàixiū",
+    "pos": "形容词",
+    "english": "shy, bashful",
+    "mongolian": "ичимхий"
+  },
+  {
+    "hanzi": "寒假",
+    "pinyin": "hánjià",
+    "pos": "名词",
+    "english": "the winter vacation",
+    "mongolian": "өвлийн амралт"
+  },
+  {
+    "hanzi": "寒冷",
+    "pinyin": "hánlěng",
+    "pos": "形容词",
+    "english": "cold, frigid, chilly",
+    "mongolian": "хүйтэн"
+  },
+  {
+    "hanzi": "喊",
+    "pinyin": "hǎn",
+    "pos": "动词",
+    "english": "shout",
+    "mongolian": "хашгирах"
+  },
+  {
+    "hanzi": "汗",
+    "pinyin": "hàn",
+    "pos": "名词",
+    "english": "sweat",
+    "mongolian": "хөлс"
+  },
+  {
+    "hanzi": "航班",
+    "pinyin": "hángbān",
+    "pos": "名词",
+    "english": "flight",
+    "mongolian": "нислэг"
+  },
+  {
+    "hanzi": "好处",
+    "pinyin": "hǎochù",
+    "pos": "名词",
+    "english": "benefit",
+    "mongolian": "ашиг тус"
+  },
+  {
+    "hanzi": "好好",
+    "pinyin": "hǎohǎo",
+    "pos": "形/副词",
+    "english": "good, nice, proper; well, thoroughly, serious, all out",
+    "mongolian": "сайн сайхан"
+  },
+  {
+    "hanzi": "好笑",
+    "pinyin": "hǎoxiào",
+    "pos": "形容词",
+    "english": "funny, ridiculous",
+    "mongolian": "инээдтэй"
+  },
+  {
+    "hanzi": "合格",
+    "pinyin": "hégé",
+    "pos": "形容词",
+    "english": "qualified",
+    "mongolian": "шаардлага хангасан"
+  },
+  {
+    "hanzi": "盒子",
+    "pinyin": "hézi",
+    "pos": "名词",
+    "english": "box",
+    "mongolian": "хайрцаг"
+  },
+  {
+    "hanzi": "红包",
+    "pinyin": "hóngbāo",
+    "pos": "名词",
+    "english": "red envelope, red packet",
+    "mongolian": "улаан дугтуй (мөнгөтэй)"
+  },
+  {
+    "hanzi": "厚",
+    "pinyin": "hòu",
+    "pos": "形容词",
+    "english": "thick",
+    "mongolian": "зузаан"
+  },
+  {
+    "hanzi": "后悔",
+    "pinyin": "hòuhuǐ",
+    "pos": "动词",
+    "english": "regret",
+    "mongolian": "харамсах"
+  },
+  {
+    "hanzi": "忽然",
+    "pinyin": "hūrán",
+    "pos": "副词",
+    "english": "suddenly",
+    "mongolian": "гэнэт"
+  },
+  {
+    "hanzi": "互联网",
+    "pinyin": "hùliánwǎng",
+    "pos": "名词",
+    "english": "Internet",
+    "mongolian": "интернэт"
+  },
+  {
+    "hanzi": "护士",
+    "pinyin": "hùshi",
+    "pos": "名词",
+    "english": "nurse",
+    "mongolian": "сувилагч"
+  },
+  {
+    "hanzi": "互相",
+    "pinyin": "hùxiāng",
+    "pos": "副词",
+    "english": "each other",
+    "mongolian": "харилцан"
+  },
+  {
+    "hanzi": "话剧",
+    "pinyin": "huàjù",
+    "pos": "名词",
+    "english": "drama",
+    "mongolian": "жүжиг"
+  },
+  {
+    "hanzi": "怀疑",
+    "pinyin": "huáiyí",
+    "pos": "动词",
+    "english": "doubt",
+    "mongolian": "эргэлзэх"
+  },
+  {
+    "hanzi": "坏处",
+    "pinyin": "huàichù",
+    "pos": "名词",
+    "english": "disadvantage, harm",
+    "mongolian": "хор хохирол"
+  },
+  {
+    "hanzi": "环保",
+    "pinyin": "huánbǎo",
+    "pos": "名/形容词",
+    "english": "environmental protection; environmentally friendly, green",
+    "mongolian": "байгаль хамгаалал"
+  },
+  {
+    "hanzi": "换乘",
+    "pinyin": "huànchéng",
+    "pos": "动词",
+    "english": "transfer, change",
+    "mongolian": "шилжих (унаа)"
+  },
+  {
+    "hanzi": "回复",
+    "pinyin": "huífù",
+    "pos": "动词",
+    "english": "reply",
+    "mongolian": "хариу өгөх"
+  },
+  {
+    "hanzi": "回信",
+    "pinyin": "huíxìn",
+    "pos": "动/名词",
+    "english": "reply to a letter, write back; reply letter, response",
+    "mongolian": "захидалд хариулах; хариу захидал"
+  },
+  {
+    "hanzi": "回忆",
+    "pinyin": "huíyì",
+    "pos": "动词",
+    "english": "memory",
+    "mongolian": "дурсах"
+  },
+  {
+    "hanzi": "会员",
+    "pinyin": "huìyuán",
+    "pos": "名词",
+    "english": "membership",
+    "mongolian": "гишүүн"
+  },
+  {
+    "hanzi": "活",
+    "pinyin": "huó",
+    "pos": "动/形/名词",
+    "english": "live; alive, living, flexible; work, job, livelihood",
+    "mongolian": "амьдрах; амьд"
+  },
+  {
+    "hanzi": "活动",
+    "pinyin": "huódòng",
+    "pos": "动/名词",
+    "english": "move, exercise, be active; activity, event, exercise",
+    "mongolian": "хөдлөх; арга хэмжээ"
+  },
+  {
+    "hanzi": "活泼",
+    "pinyin": "huópō",
+    "pos": "形容词",
+    "english": "lively",
+    "mongolian": "хөгжилтэй, эрч хүчтэй"
+  },
+  {
+    "hanzi": "火",
+    "pinyin": "huǒ",
+    "pos": "名/形容词",
+    "english": "fire; urgent, popular, hot",
+    "mongolian": "гал"
+  },
+  {
+    "hanzi": "货",
+    "pinyin": "huò",
+    "pos": "名词",
+    "english": "goods, commodity, money",
+    "mongolian": "бараа"
+  },
+  {
+    "hanzi": "获得",
+    "pinyin": "huòdé",
+    "pos": "动词",
+    "english": "get",
+    "mongolian": "олж авах"
+  },
+  {
+    "hanzi": "获奖",
+    "pinyin": "huòjiǎng",
+    "pos": "动词",
+    "english": "win a prize, receive an award",
+    "mongolian": "шагнал хүртэх"
+  },
+  {
+    "hanzi": "获取",
+    "pinyin": "huòqǔ",
+    "pos": "动词",
+    "english": "gain, obtain",
+    "mongolian": "олж авах"
+  },
+  {
+    "hanzi": "基本",
+    "pinyin": "jīběn",
+    "pos": "形/副词",
+    "english": "basic, fundamental, essential; basically, essentially, on the whole",
+    "mongolian": "үндсэн"
+  },
+  {
+    "hanzi": "基本上",
+    "pinyin": "jīběnshàng",
+    "pos": "副词",
+    "english": "basically",
+    "mongolian": "ерөнхийдөө"
+  },
+  {
+    "hanzi": "基础",
+    "pinyin": "jīchǔ",
+    "pos": "名词",
+    "english": "Basics",
+    "mongolian": "суурь"
+  },
+  {
+    "hanzi": "激动",
+    "pinyin": "jīdòng",
+    "pos": "形/动词",
+    "english": "excited, agitated, emotionally moved; to excite, to agitate, to move",
+    "mongolian": "догдолсон"
+  },
+  {
+    "hanzi": "积极",
+    "pinyin": "jījí",
+    "pos": "形容词",
+    "english": "positive",
+    "mongolian": "идэвхтэй"
+  },
+  {
+    "hanzi": "积累",
+    "pinyin": "jīlěi",
+    "pos": "动词",
+    "english": "to accumulate, to build up, to amass",
+    "mongolian": "хуримтлуулах"
+  },
+  {
+    "hanzi": "及时",
+    "pinyin": "jíshí",
+    "pos": "形/副词",
+    "english": "timely, prompt, in time; without delay, promptly, in a timely manner",
+    "mongolian": "цаг тухайд нь"
+  },
+  {
+    "hanzi": "即使",
+    "pinyin": "jíshǐ",
+    "pos": "连词",
+    "english": "even if",
+    "mongolian": "хэдийгээр ч"
+  },
+  {
+    "hanzi": "既",
+    "pinyin": "jì",
+    "pos": "副/连词",
+    "english": "already, since; both ... and ..., as well as",
+    "mongolian": "учир нь; ...төдийгүй"
+  },
+  {
+    "hanzi": "寄",
+    "pinyin": "jì",
+    "pos": "动词",
+    "english": "send",
+    "mongolian": "илгээх (шуудан)"
+  },
+  {
+    "hanzi": "计划",
+    "pinyin": "jìhuà",
+    "pos": "名/动词",
+    "english": "plan, project, program, scheme; to plan, to map out, to intend",
+    "mongolian": "төлөвлөгөө; төлөвлөх"
+  },
+  {
+    "hanzi": "既然",
+    "pinyin": "jìrán",
+    "pos": "连词",
+    "english": "since",
+    "mongolian": "тэгэхээр"
+  },
+  {
+    "hanzi": "技术",
+    "pinyin": "jìshù",
+    "pos": "名词",
+    "english": "technology",
+    "mongolian": "технологи"
+  },
+  {
+    "hanzi": "继续",
+    "pinyin": "jìxù",
+    "pos": "动词",
+    "english": "continue",
+    "mongolian": "үргэлжлүүлэх"
+  },
+  {
+    "hanzi": "记者",
+    "pinyin": "jìzhě",
+    "pos": "名词",
+    "english": "reporter",
+    "mongolian": "сэтгүүлч"
+  },
+  {
+    "hanzi": "加班",
+    "pinyin": "jiābān",
+    "pos": "动词",
+    "english": "work overtime",
+    "mongolian": "илүү цаг ажиллах"
+  },
+  {
+    "hanzi": "家具",
+    "pinyin": "jiājù",
+    "pos": "名词",
+    "english": "furniture",
+    "mongolian": "тавилга"
+  },
+  {
+    "hanzi": "加快",
+    "pinyin": "jiākuài",
+    "pos": "动词",
+    "english": "speed up, accelerate",
+    "mongolian": "хурдасгах"
+  },
+  {
+    "hanzi": "加强",
+    "pinyin": "jiāqiáng",
+    "pos": "动词",
+    "english": "strengthen, reinforce",
+    "mongolian": "бэхжүүлэх"
+  },
+  {
+    "hanzi": "加入",
+    "pinyin": "jiārù",
+    "pos": "动词",
+    "english": "add, mix, join, become a member",
+    "mongolian": "нэгдэх"
+  },
+  {
+    "hanzi": "加上",
+    "pinyin": "jiāshàng",
+    "pos": "连词",
+    "english": "plus, add, with the addition of",
+    "mongolian": "нэмээд"
+  },
+  {
+    "hanzi": "家庭",
+    "pinyin": "jiātíng",
+    "pos": "名词",
+    "english": "family",
+    "mongolian": "гэр бүл"
+  },
+  {
+    "hanzi": "家乡",
+    "pinyin": "jiāxiāng",
+    "pos": "名词",
+    "english": "hometown",
+    "mongolian": "төрсөн нутаг"
+  },
+  {
+    "hanzi": "加油",
+    "pinyin": "jiāyóu",
+    "pos": "动词",
+    "english": "oil, refuel, make an all-out effort",
+    "mongolian": "түлш цэнэглэх, урам зориг өгөх"
+  },
+  {
+    "hanzi": "加油站",
+    "pinyin": "jiāyóuzhàn",
+    "pos": "名词",
+    "english": "gas station",
+    "mongolian": "шатахуун түгээх станц"
+  },
+  {
+    "hanzi": "家长",
+    "pinyin": "jiāzhǎng",
+    "pos": "名词",
+    "english": "parent, the head of the family",
+    "mongolian": "эцэг эх"
+  },
+  {
+    "hanzi": "假",
+    "pinyin": "jiǎ",
+    "pos": "形容词",
+    "english": "false, fake",
+    "mongolian": "хуурамч"
+  },
+  {
+    "hanzi": "价格",
+    "pinyin": "jiàgé",
+    "pos": "名词",
+    "english": "price",
+    "mongolian": "үнэ"
+  },
+  {
+    "hanzi": "价钱",
+    "pinyin": "jiàqián",
+    "pos": "名词",
+    "english": "price",
+    "mongolian": "үнэ"
+  },
+  {
+    "hanzi": "假日",
+    "pinyin": "jiàrì",
+    "pos": "名词",
+    "english": "holiday, day off, vacation",
+    "mongolian": "амралтын өдөр"
+  },
+  {
+    "hanzi": "减",
+    "pinyin": "jiǎn",
+    "pos": "动词",
+    "english": "to reduce, to decrease, to subtract, to lessen",
+    "mongolian": "хасах"
+  },
+  {
+    "hanzi": "减轻",
+    "pinyin": "jiǎnqīng",
+    "pos": "动词",
+    "english": "to lighten, to ease, to alleviate, to reduce",
+    "mongolian": "хөнгөвчлөх"
+  },
+  {
+    "hanzi": "减少",
+    "pinyin": "jiǎnshǎo",
+    "pos": "动词",
+    "english": "to reduce, to decrease, to cut down, to diminish",
+    "mongolian": "багасгах"
+  },
+  {
+    "hanzi": "健身",
+    "pinyin": "jiànshēn",
+    "pos": "动词",
+    "english": "to exercise, to work out, to keep fit",
+    "mongolian": "фитнес хийх"
+  },
+  {
+    "hanzi": "健身房",
+    "pinyin": "jiànshēnfáng",
+    "pos": "名词",
+    "english": "gym",
+    "mongolian": "фитнес заал"
+  },
+  {
+    "hanzi": "建议",
+    "pinyin": "jiànyì",
+    "pos": "动/名词",
+    "english": "to suggest, to propose, to recommend; suggestion",
+    "mongolian": "санал болгох; санал"
+  },
+  {
+    "hanzi": "江",
+    "pinyin": "jiāng",
+    "pos": "名词",
+    "english": "river",
+    "mongolian": "гол"
+  },
+  {
+    "hanzi": "将",
+    "pinyin": "jiāng",
+    "pos": "介/副词",
+    "english": "with, by; will, shall, be about to",
+    "mongolian": "-г; удахгүй"
+  },
+  {
+    "hanzi": "将来",
+    "pinyin": "jiānglái",
+    "pos": "名词",
+    "english": "future",
+    "mongolian": "ирээдүй"
+  },
+  {
+    "hanzi": "将要",
+    "pinyin": "jiāngyào",
+    "pos": "副词",
+    "english": "will, be going to, be about to",
+    "mongolian": "удахгүй"
+  },
+  {
+    "hanzi": "奖",
+    "pinyin": "jiǎng",
+    "pos": "名词",
+    "english": "prize, award, reward; to award",
+    "mongolian": "шагнал"
+  },
+  {
+    "hanzi": "奖金",
+    "pinyin": "jiǎngjīn",
+    "pos": "名词",
+    "english": "bonus, prize money, cash award",
+    "mongolian": "урамшуулал"
+  },
+  {
+    "hanzi": "奖学金",
+    "pinyin": "jiǎngxuéjīn",
+    "pos": "名词",
+    "english": "scholarship, fellowship",
+    "mongolian": "тэтгэлэг"
+  },
+  {
+    "hanzi": "降",
+    "pinyin": "jiàng",
+    "pos": "动词",
+    "english": "to fall, to drop, to descend, to lower",
+    "mongolian": "буурах"
+  },
+  {
+    "hanzi": "降低",
+    "pinyin": "jiàngdī",
+    "pos": "动词",
+    "english": "to reduce, to lower, to bring down",
+    "mongolian": "бууруулах"
+  },
+  {
+    "hanzi": "降价",
+    "pinyin": "jiàngjià",
+    "pos": "动词",
+    "english": "to lower price",
+    "mongolian": "үнэ буурах"
+  },
+  {
+    "hanzi": "降落",
+    "pinyin": "jiàngluò",
+    "pos": "动词",
+    "english": "to descend, to land, to touch down",
+    "mongolian": "буух (онгоц)"
+  },
+  {
+    "hanzi": "降温",
+    "pinyin": "jiàngwēn",
+    "pos": "动词",
+    "english": "to cool down, to lower the temperature",
+    "mongolian": "хөрөх, температур буурах"
+  },
+  {
+    "hanzi": "交",
+    "pinyin": "jiāo",
+    "pos": "动词",
+    "english": "to hand in, to submit; to meet, to cross; to make friends with",
+    "mongolian": "өгөх, тушаах"
+  },
+  {
+    "hanzi": "骄傲",
+    "pinyin": "jiāo'ào",
+    "pos": "形/名词",
+    "english": "proud, arrogant, conceited; pride, arrogance",
+    "mongolian": "бардам; бахархал"
+  },
+  {
+    "hanzi": "交警",
+    "pinyin": "jiāojǐng",
+    "pos": "名词",
+    "english": "traffic police",
+    "mongolian": "замын цагдаа"
+  },
+  {
+    "hanzi": "交流",
+    "pinyin": "jiāoliú",
+    "pos": "动词",
+    "english": "communicate",
+    "mongolian": "харилцах"
+  },
+  {
+    "hanzi": "郊区",
+    "pinyin": "jiāoqū",
+    "pos": "名词",
+    "english": "suburb",
+    "mongolian": "хот орчмын бүс"
+  },
+  {
+    "hanzi": "交通",
+    "pinyin": "jiāotōng",
+    "pos": "名词",
+    "english": "traffic",
+    "mongolian": "тээвэр, зам харилцаа"
+  },
+  {
+    "hanzi": "教练",
+    "pinyin": "jiàoliàn",
+    "pos": "名词",
+    "english": "coach",
+    "mongolian": "дасгалжуулагч"
+  },
+  {
+    "hanzi": "教师",
+    "pinyin": "jiàoshī",
+    "pos": "名词",
+    "english": "teacher",
+    "mongolian": "багш"
+  },
+  {
+    "hanzi": "教授",
+    "pinyin": "jiàoshòu",
+    "pos": "名词",
+    "english": "professor",
+    "mongolian": "профессор"
+  },
+  {
+    "hanzi": "教学",
+    "pinyin": "jiàoxué",
+    "pos": "名词",
+    "english": "teach",
+    "mongolian": "заах, багшлах"
+  },
+  {
+    "hanzi": "教育",
+    "pinyin": "jiàoyù",
+    "pos": "名/动词",
+    "english": "education; to educate",
+    "mongolian": "боловсрол; сургах"
+  },
+  {
+    "hanzi": "叫作",
+    "pinyin": "jiàozuò",
+    "pos": "动词",
+    "english": "be called, be known as",
+    "mongolian": "гэж нэрлэгдэх"
+  },
+  {
+    "hanzi": "街道",
+    "pinyin": "jiēdào",
+    "pos": "名词",
+    "english": "street",
+    "mongolian": "гудамж"
+  },
+  {
+    "hanzi": "接受",
+    "pinyin": "jiēshòu",
+    "pos": "动词",
+    "english": "accept",
+    "mongolian": "хүлээн авах"
+  },
+  {
+    "hanzi": "接着",
+    "pinyin": "jiēzhe",
+    "pos": "动/副词",
+    "english": "to continue, to follow, to catch; then, next, subsequently",
+    "mongolian": "дараа нь"
+  },
+  {
+    "hanzi": "结果",
+    "pinyin": "jiéguǒ",
+    "pos": "名/连词",
+    "english": "result, outcome, consequence; as a result",
+    "mongolian": "үр дүн"
+  },
+  {
+    "hanzi": "节假日",
+    "pinyin": "jiéjiàrì",
+    "pos": "名词",
+    "english": "festivals and holidays, holiday season",
+    "mongolian": "баяр наадам"
+  },
+  {
+    "hanzi": "节约",
+    "pinyin": "jiéyuē",
+    "pos": "动词",
+    "english": "to save, to economize, to conserve",
+    "mongolian": "хэмнэх"
+  },
+  {
+    "hanzi": "结账",
+    "pinyin": "jiézhàng",
+    "pos": "动词",
+    "english": "to pay the bill, to settle an account, to check out",
+    "mongolian": "тооцоо хийх"
+  },
+  {
+    "hanzi": "解释",
+    "pinyin": "jiěshì",
+    "pos": "动词",
+    "english": "to explain, to interpret, to account for",
+    "mongolian": "тайлбарлах"
+  },
+  {
+    "hanzi": "今后",
+    "pinyin": "jīnhòu",
+    "pos": "名词",
+    "english": "from now on, in the future, henceforth",
+    "mongolian": "цаашид"
+  },
+  {
+    "hanzi": "仅",
+    "pinyin": "jǐn",
+    "pos": "副词",
+    "english": "only, merely, solely",
+    "mongolian": "зөвхөн"
+  },
+  {
+    "hanzi": "尽管",
+    "pinyin": "jǐnguǎn",
+    "pos": "副/连词",
+    "english": "feel free to, not hesitate to; although, even though, despite",
+    "mongolian": "хэдийгээр"
+  },
+  {
+    "hanzi": "仅仅",
+    "pinyin": "jǐnjǐn",
+    "pos": "副词",
+    "english": "only, merely, barely, simply",
+    "mongolian": "зөвхөн"
+  },
+  {
+    "hanzi": "紧张",
+    "pinyin": "jǐnzhāng",
+    "pos": "形容词",
+    "english": "nervous, tense, strained, in short supply",
+    "mongolian": "сандарсан, хурцадмал"
+  },
+  {
+    "hanzi": "进入",
+    "pinyin": "jìnrù",
+    "pos": "动词",
+    "english": "to enter, to access, to be admitted to",
+    "mongolian": "орох"
+  },
+  {
+    "hanzi": "进行",
+    "pinyin": "jìnxíng",
+    "pos": "动词",
+    "english": "to carry out, to conduct, to proceed with, to undertake",
+    "mongolian": "явуулах"
+  },
+  {
+    "hanzi": "禁止",
+    "pinyin": "jìnzhǐ",
+    "pos": "动词",
+    "english": "to prohibit, to forbid, to ban",
+    "mongolian": "хориглох"
+  },
+  {
+    "hanzi": "精彩",
+    "pinyin": "jīngcǎi",
+    "pos": "形容词",
+    "english": "brilliant, splendid, wonderful, exciting",
+    "mongolian": "гайхалтай"
+  },
+  {
+    "hanzi": "经济",
+    "pinyin": "jīngjì",
+    "pos": "名/形容词",
+    "english": "economy, economics; economical, affordable",
+    "mongolian": "эдийн засаг"
+  },
+  {
+    "hanzi": "京剧",
+    "pinyin": "jīngjù",
+    "pos": "名词",
+    "english": "Beijing opera",
+    "mongolian": "Бээжингийн дуурь"
+  },
+  {
+    "hanzi": "经历",
+    "pinyin": "jīnglì",
+    "pos": "动/名词",
+    "english": "to experience, to go through; experience, past, history",
+    "mongolian": "туулах; туршлага"
+  },
+  {
+    "hanzi": "经验",
+    "pinyin": "jīngyàn",
+    "pos": "名词",
+    "english": "experience",
+    "mongolian": "туршлага"
+  },
+  {
+    "hanzi": "警察",
+    "pinyin": "jǐngchá",
+    "pos": "名词",
+    "english": "police",
+    "mongolian": "цагдаа"
+  },
+  {
+    "hanzi": "景点",
+    "pinyin": "jǐngdiǎn",
+    "pos": "名词",
+    "english": "scenic spot, tourist attraction, point of interest",
+    "mongolian": "үзэсгэлэнт газар"
+  },
+  {
+    "hanzi": "景区",
+    "pinyin": "jǐngqū",
+    "pos": "名词",
+    "english": "scenic area, tourist attraction zone",
+    "mongolian": "аялал жуулчлалын бүс"
+  },
+  {
+    "hanzi": "景色",
+    "pinyin": "jǐngsè",
+    "pos": "名词",
+    "english": "scenery",
+    "mongolian": "байгалийн үзэмж"
+  },
+  {
+    "hanzi": "竟然",
+    "pinyin": "jìngrán",
+    "pos": "副词",
+    "english": "unexpectedly",
+    "mongolian": "гэтэл, санаандгүй"
+  },
+  {
+    "hanzi": "竞争",
+    "pinyin": "jìngzhēng",
+    "pos": "动词",
+    "english": "compete",
+    "mongolian": "өрсөлдөх"
+  },
+  {
+    "hanzi": "镜子",
+    "pinyin": "jìngzi",
+    "pos": "名词",
+    "english": "mirror",
+    "mongolian": "толь"
+  },
+  {
+    "hanzi": "究竟",
+    "pinyin": "jiūjìng",
+    "pos": "副词",
+    "english": "actually, exactly, after all",
+    "mongolian": "яг үнэндээ"
+  },
+  {
+    "hanzi": "就是",
+    "pinyin": "jiùshì",
+    "pos": "副/连词",
+    "english": "precisely, exactly; only, merely, simply; even if, even",
+    "mongolian": "яг тэр; гэсэн ч"
+  },
+  {
+    "hanzi": "举",
+    "pinyin": "jǔ",
+    "pos": "动词",
+    "english": "to raise, to lift; to hold; to give; to recommend",
+    "mongolian": "өргөх"
+  },
+  {
+    "hanzi": "举办",
+    "pinyin": "jǔbàn",
+    "pos": "动词",
+    "english": "to hold, to host, to organize",
+    "mongolian": "зохион байгуулах"
+  },
+  {
+    "hanzi": "举例",
+    "pinyin": "jǔlì",
+    "pos": "动词",
+    "english": "to give an example, to illustrate with an example",
+    "mongolian": "жишээ дурдах"
+  },
+  {
+    "hanzi": "举行",
+    "pinyin": "jǔxíng",
+    "pos": "动词",
+    "english": "to hold, to convene, to conduct",
+    "mongolian": "зохион байгуулах"
+  },
+  {
+    "hanzi": "聚",
+    "pinyin": "jù",
+    "pos": "动词",
+    "english": "to gather, to assemble, to get together",
+    "mongolian": "цуглах"
+  },
+  {
+    "hanzi": "聚餐",
+    "pinyin": "jùcān",
+    "pos": "动词",
+    "english": "to have a dinner together, to dine together",
+    "mongolian": "хамт хооллох"
+  },
+  {
+    "hanzi": "聚会",
+    "pinyin": "jùhuì",
+    "pos": "动/名词",
+    "english": "to get together, to meet, to gather; party, gathering, meeting",
+    "mongolian": "уулзах; цуглаан"
+  },
+  {
+    "hanzi": "拒绝",
+    "pinyin": "jùjué",
+    "pos": "动词",
+    "english": "to refuse, to reject, to decline",
+    "mongolian": "татгалзах"
+  },
+  {
+    "hanzi": "距离",
+    "pinyin": "jùlí",
+    "pos": "动/名词",
+    "english": "to be away from, to be at a distance from; distance, gap",
+    "mongolian": "-аас холдох; зай"
+  },
+  {
+    "hanzi": "剧院",
+    "pinyin": "jùyuàn",
+    "pos": "名词",
+    "english": "theater, opera house, playhouse",
+    "mongolian": "театр"
+  },
+  {
+    "hanzi": "开玩笑",
+    "pinyin": "kāi wánxiào",
+    "pos": "动词",
+    "english": "make fun of",
+    "mongolian": "хошигнох"
+  },
+  {
+    "hanzi": "看法",
+    "pinyin": "kànfǎ",
+    "pos": "名词",
+    "english": "view",
+    "mongolian": "үзэл бодол"
+  },
+  {
+    "hanzi": "烤",
+    "pinyin": "kǎo",
+    "pos": "动词",
+    "english": "to bake, to roast, to grill, to toast",
+    "mongolian": "шарах"
+  },
+  {
+    "hanzi": "考虑",
+    "pinyin": "kǎolǜ",
+    "pos": "动词",
+    "english": "to consider, to think over, to contemplate",
+    "mongolian": "бодолцох"
+  },
+  {
+    "hanzi": "考生",
+    "pinyin": "kǎoshēng",
+    "pos": "名词",
+    "english": "examinee",
+    "mongolian": "шалгуулагч"
+  },
+  {
+    "hanzi": "棵",
+    "pinyin": "kē",
+    "pos": "量词",
+    "english": "measure word for trees, plants, and other similar objects",
+    "mongolian": "мод тоолох үг"
+  },
+  {
+    "hanzi": "科技",
+    "pinyin": "kējì",
+    "pos": "名词",
+    "english": "science and technology",
+    "mongolian": "шинжлэх ухаан технологи"
+  },
+  {
+    "hanzi": "科学",
+    "pinyin": "kēxué",
+    "pos": "名/形容词",
+    "english": "science; scientific",
+    "mongolian": "шинжлэх ухаан"
+  },
+  {
+    "hanzi": "咳",
+    "pinyin": "ké",
+    "pos": "动词",
+    "english": "to cough",
+    "mongolian": "ханиалгах"
+  },
+  {
+    "hanzi": "咳嗽",
+    "pinyin": "késou",
+    "pos": "动词",
+    "english": "to cough",
+    "mongolian": "ханиалгах"
+  },
+  {
+    "hanzi": "可惜",
+    "pinyin": "kěxī",
+    "pos": "形容词",
+    "english": "regrettable, unfortunate, a pity",
+    "mongolian": "харамсалтай"
+  },
+  {
+    "hanzi": "克",
+    "pinyin": "kè",
+    "pos": "量词",
+    "english": "gram",
+    "mongolian": "грамм"
+  },
+  {
+    "hanzi": "课程",
+    "pinyin": "kèchéng",
+    "pos": "名词",
+    "english": "curriculum",
+    "mongolian": "хичээлийн хөтөлбөр"
+  },
+  {
+    "hanzi": "客气",
+    "pinyin": "kèqi",
+    "pos": "形/动词",
+    "english": "polite, courteous; to be polite, to say polite remarks",
+    "mongolian": "эелдэг"
+  },
+  {
+    "hanzi": "课堂",
+    "pinyin": "kètáng",
+    "pos": "名词",
+    "english": "classroom",
+    "mongolian": "хичээлийн танхим"
+  },
+  {
+    "hanzi": "客厅",
+    "pinyin": "kètīng",
+    "pos": "名词",
+    "english": "living room, parlor",
+    "mongolian": "зочны өрөө"
+  },
+  {
+    "hanzi": "肯定",
+    "pinyin": "kěndìng",
+    "pos": "动/形/副词",
+    "english": "to be certain, to be sure, to affirm; positive, affirmative, definite; surely, certainly, definitely",
+    "mongolian": "батлах; тодорхой"
+  },
+  {
+    "hanzi": "空",
+    "pinyin": "kōng",
+    "pos": "形容词",
+    "english": "empty, vacant, hollow; (in vain, for nothing)",
+    "mongolian": "хоосон"
+  },
+  {
+    "hanzi": "空气",
+    "pinyin": "kōngqì",
+    "pos": "名词",
+    "english": "atmosphere, air",
+    "mongolian": "агаар"
+  },
+  {
+    "hanzi": "恐怕",
+    "pinyin": "kǒngpà",
+    "pos": "动/副词",
+    "english": "to fear, to be afraid; I'm afraid, perhaps, maybe",
+    "mongolian": "айх; аймаар"
+  },
+  {
+    "hanzi": "空",
+    "pinyin": "kòng",
+    "pos": "动/形/名词",
+    "english": "to leave empty, to make time, to free up; empty, free, unoccupied; free time, empty space",
+    "mongolian": "сул зай; чөлөөт цаг"
+  },
+  {
+    "hanzi": "口语",
+    "pinyin": "kǒuyǔ",
+    "pos": "名词",
+    "english": "spoken language",
+    "mongolian": "ярианы хэл"
+  },
+  {
+    "hanzi": "苦",
+    "pinyin": "kǔ",
+    "pos": "形容词",
+    "english": "bitter",
+    "mongolian": "гашуун"
+  },
+  {
+    "hanzi": "快餐",
+    "pinyin": "kuàicān",
+    "pos": "名词",
+    "english": "fast food",
+    "mongolian": "түргэн хоол"
+  },
+  {
+    "hanzi": "快递",
+    "pinyin": "kuàidì",
+    "pos": "名词",
+    "english": "express delivery",
+    "mongolian": "шуурхай хүргэлт"
+  },
+  {
+    "hanzi": "快速",
+    "pinyin": "kuàisù",
+    "pos": "形容词",
+    "english": "fast, high-speed",
+    "mongolian": "хурдан"
+  },
+  {
+    "hanzi": "困",
+    "pinyin": "kùn",
+    "pos": "形容词",
+    "english": "sleepy, tired; (to trap, to confine)",
+    "mongolian": "нойрмог"
+  },
+  {
+    "hanzi": "困难",
+    "pinyin": "kùnnan",
+    "pos": "形/名词",
+    "english": "difficult, hard; difficulty, trouble",
+    "mongolian": "хэцүү; бэрхшээл"
+  },
+  {
+    "hanzi": "拉",
+    "pinyin": "lā",
+    "pos": "动词",
+    "english": "to pull, to drag, to draw",
+    "mongolian": "татах"
+  },
+  {
+    "hanzi": "垃圾",
+    "pinyin": "lājī",
+    "pos": "名词",
+    "english": "garbage, trash, rubbish",
+    "mongolian": "хог хаягдал"
+  },
+  {
+    "hanzi": "辣",
+    "pinyin": "là",
+    "pos": "形容词",
+    "english": "hot, spicy",
+    "mongolian": "халуун ногоотой"
+  },
+  {
+    "hanzi": "来不及",
+    "pinyin": "láibují",
+    "pos": "动词",
+    "english": "there's not enough time, it's too late",
+    "mongolian": "амжихгүй байх"
+  },
+  {
+    "hanzi": "来得及",
+    "pinyin": "láidejí",
+    "pos": "动词",
+    "english": "there's still time, can make it in time",
+    "mongolian": "амжих"
+  },
+  {
+    "hanzi": "懒",
+    "pinyin": "lǎn",
+    "pos": "形容词",
+    "english": "lazy, idle",
+    "mongolian": "залхуу"
+  },
+  {
+    "hanzi": "浪费",
+    "pinyin": "làngfèi",
+    "pos": "动词",
+    "english": "to waste, to squander",
+    "mongolian": "дэмий үрэх"
+  },
+  {
+    "hanzi": "浪漫",
+    "pinyin": "làngmàn",
+    "pos": "形容词",
+    "english": "romantic",
+    "mongolian": "романтик"
+  },
+  {
+    "hanzi": "老虎",
+    "pinyin": "lǎohǔ",
+    "pos": "名词",
+    "english": "tiger",
+    "mongolian": "бар"
+  },
+  {
+    "hanzi": "老家",
+    "pinyin": "lǎojiā",
+    "pos": "名词",
+    "english": "hometown, home state",
+    "mongolian": "төрсөн нутаг"
+  },
+  {
+    "hanzi": "老年",
+    "pinyin": "lǎonián",
+    "pos": "名词",
+    "english": "elderly",
+    "mongolian": "өндөр нас"
+  },
+  {
+    "hanzi": "老是",
+    "pinyin": "lǎoshì",
+    "pos": "副词",
+    "english": "always, constantly",
+    "mongolian": "байнга"
+  },
+  {
+    "hanzi": "冷静",
+    "pinyin": "lěngjìng",
+    "pos": "形容词",
+    "english": "calm, cool-headed",
+    "mongolian": "тайван"
+  },
+  {
+    "hanzi": "理发",
+    "pinyin": "lǐfà",
+    "pos": "动词",
+    "english": "to have a haircut, to cut hair",
+    "mongolian": "үс засуулах"
+  },
+  {
+    "hanzi": "理解",
+    "pinyin": "lǐjiě",
+    "pos": "动词",
+    "english": "to understand, to comprehend",
+    "mongolian": "ойлгох"
+  },
+  {
+    "hanzi": "礼貌",
+    "pinyin": "lǐmào",
+    "pos": "名/形容词",
+    "english": "courtesy, politeness; polite",
+    "mongolian": "ёс зүй"
+  },
+  {
+    "hanzi": "理想",
+    "pinyin": "lǐxiǎng",
+    "pos": "名/形容词",
+    "english": "ideal, dream; ideal",
+    "mongolian": "хүсэл мөрөөдөл"
+  },
+  {
+    "hanzi": "厉害",
+    "pinyin": "lìhai",
+    "pos": "形容词",
+    "english": "severe, fierce, impressive, excellent",
+    "mongolian": "аймшигтай, гайхалтай"
+  },
+  {
+    "hanzi": "力气",
+    "pinyin": "lìqi",
+    "pos": "名词",
+    "english": "strength, physical power",
+    "mongolian": "хүч чадал"
+  },
+  {
+    "hanzi": "例如",
+    "pinyin": "lìrú",
+    "pos": "动词",
+    "english": "for example, such as",
+    "mongolian": "жишээ нь"
+  },
+  {
+    "hanzi": "例子",
+    "pinyin": "lìzi",
+    "pos": "名词",
+    "english": "example, instance",
+    "mongolian": "жишээ"
+  },
+  {
+    "hanzi": "俩",
+    "pinyin": "liǎ",
+    "pos": "数量词",
+    "english": "two, both",
+    "mongolian": "хоёул"
+  },
+  {
+    "hanzi": "连",
+    "pinyin": "lián",
+    "pos": "介词",
+    "english": "used to introduce the object of a verb; even, including; to connect",
+    "mongolian": "хүртэл, тэр байтугай"
+  },
+  {
+    "hanzi": "联系",
+    "pinyin": "liánxì",
+    "pos": "动词",
+    "english": "to contact, to connect",
+    "mongolian": "холбогдох"
+  },
+  {
+    "hanzi": "凉",
+    "pinyin": "liáng",
+    "pos": "形容词",
+    "english": "cool, cold",
+    "mongolian": "сэрүүн"
+  },
+  {
+    "hanzi": "量",
+    "pinyin": "liáng",
+    "pos": "动词",
+    "english": "to measure, to weigh",
+    "mongolian": "хэмжих"
+  },
+  {
+    "hanzi": "两",
+    "pinyin": "liǎng",
+    "pos": "量词",
+    "english": "measure word for vehicles, animals, etc.",
+    "mongolian": "тэрэг тоолох үг"
+  },
+  {
+    "hanzi": "亮",
+    "pinyin": "liàng",
+    "pos": "形/动词",
+    "english": "bright, light; to shine, to show",
+    "mongolian": "гэрэлтэй"
+  },
+  {
+    "hanzi": "列",
+    "pinyin": "liè",
+    "pos": "动/量词",
+    "english": "to arrange in a row, to list; measure word for rows or lines",
+    "mongolian": "жагсаах"
+  },
+  {
+    "hanzi": "零下",
+    "pinyin": "líng xià",
+    "pos": "名词",
+    "english": "below zero",
+    "mongolian": "тэгээс доош"
+  },
+  {
+    "hanzi": "零花钱",
+    "pinyin": "línghuāqián",
+    "pos": "名词",
+    "english": "pocket money, spending money",
+    "mongolian": "халаасны мөнгө"
+  },
+  {
+    "hanzi": "零钱",
+    "pinyin": "língqián",
+    "pos": "名词",
+    "english": "change, small denominations of money",
+    "mongolian": "ваар мөнгө"
+  },
+  {
+    "hanzi": "零食",
+    "pinyin": "língshí",
+    "pos": "名词",
+    "english": "snacks, between-meal nibbles",
+    "mongolian": "зууш"
+  },
+  {
+    "hanzi": "另",
+    "pinyin": "lìng",
+    "pos": "代词",
+    "english": "other, another; (separately, otherwise)",
+    "mongolian": "өөр"
+  },
+  {
+    "hanzi": "另外",
+    "pinyin": "lìngwài",
+    "pos": "代/副/连词",
+    "english": "other, else; in addition, moreover; besides, furthermore",
+    "mongolian": "түүнээс гадна"
+  },
+  {
+    "hanzi": "留",
+    "pinyin": "liú",
+    "pos": "动词",
+    "english": "to stay, to remain, to keep",
+    "mongolian": "үлдэх"
+  },
+  {
+    "hanzi": "流",
+    "pinyin": "liú",
+    "pos": "动词",
+    "english": "to flow, to circulate",
+    "mongolian": "урсах"
+  },
+  {
+    "hanzi": "流利",
+    "pinyin": "liúlì",
+    "pos": "形容词",
+    "english": "fluent, smooth",
+    "mongolian": "чадварлаг (хэл)"
+  },
+  {
+    "hanzi": "留下",
+    "pinyin": "liúxia",
+    "pos": "动词",
+    "english": "to leave behind, to remain",
+    "mongolian": "үлдээх"
+  },
+  {
+    "hanzi": "流行",
+    "pinyin": "liúxíng",
+    "pos": "动词",
+    "english": "to be popular, to be in fashion, to spread",
+    "mongolian": "түгээмэл болох"
+  },
+  {
+    "hanzi": "路过",
+    "pinyin": "lùguò",
+    "pos": "动词",
+    "english": "to pass by, to go by",
+    "mongolian": "дайран өнгөрөх"
+  },
+  {
+    "hanzi": "旅馆",
+    "pinyin": "lǚguǎn",
+    "pos": "名词",
+    "english": "hotel, inn",
+    "mongolian": "зочид буудал"
+  },
+  {
+    "hanzi": "旅客",
+    "pinyin": "lǚkè",
+    "pos": "名词",
+    "english": "traveler, passenger",
+    "mongolian": "аялагч"
+  },
+  {
+    "hanzi": "旅行",
+    "pinyin": "lǚxíng",
+    "pos": "动词",
+    "english": "to travel",
+    "mongolian": "аялах"
+  },
+  {
+    "hanzi": "律师",
+    "pinyin": "lǜshī",
+    "pos": "名词",
+    "english": "lawyer, attorney",
+    "mongolian": "хуульч"
+  },
+  {
+    "hanzi": "乱",
+    "pinyin": "luàn",
+    "pos": "形/副词",
+    "english": "messy, disorderly; arbitrarily, recklessly",
+    "mongolian": "эмх замбараагүй"
+  },
+  {
+    "hanzi": "落",
+    "pinyin": "luò",
+    "pos": "动词",
+    "english": "to fall, to drop, to land",
+    "mongolian": "унах"
+  },
+  {
+    "hanzi": "麻烦",
+    "pinyin": "máfan",
+    "pos": "形/动/名词",
+    "english": "troublesome, annoying; to trouble, to bother; trouble, inconvenience",
+    "mongolian": "төвөгтэй; төвөгшүүлэх"
+  },
+  {
+    "hanzi": "馒头",
+    "pinyin": "mántou",
+    "pos": "名词",
+    "english": "steamed bun, mantou",
+    "mongolian": "мантуу"
+  },
+  {
+    "hanzi": "满",
+    "pinyin": "mǎn",
+    "pos": "形/动词",
+    "english": "full, filled; to fill",
+    "mongolian": "дүүрэн"
+  },
+  {
+    "hanzi": "毛巾",
+    "pinyin": "máojīn",
+    "pos": "名词",
+    "english": "towel",
+    "mongolian": "алчуур"
+  },
+  {
+    "hanzi": "毛衣",
+    "pinyin": "máoyī",
+    "pos": "名词",
+    "english": "sweater, woolen garment",
+    "mongolian": "свитер"
+  },
+  {
+    "hanzi": "帽子",
+    "pinyin": "màozi",
+    "pos": "名词",
+    "english": "hat, cap",
+    "mongolian": "малгай"
+  },
+  {
+    "hanzi": "美",
+    "pinyin": "měi",
+    "pos": "形容词",
+    "english": "beautiful, pretty, good",
+    "mongolian": "үзэсгэлэнтэй"
+  },
+  {
+    "hanzi": "美好",
+    "pinyin": "měihǎo",
+    "pos": "形容词",
+    "english": "beautiful, splendid",
+    "mongolian": "сайхан"
+  },
+  {
+    "hanzi": "美景",
+    "pinyin": "měijǐng",
+    "pos": "名词",
+    "english": "beautiful scenery",
+    "mongolian": "үзэсгэлэнт байгаль"
+  },
+  {
+    "hanzi": "美丽",
+    "pinyin": "měilì",
+    "pos": "形容词",
+    "english": "beautiful",
+    "mongolian": "үзэсгэлэнтэй"
+  },
+  {
+    "hanzi": "美食",
+    "pinyin": "měishí",
+    "pos": "名词",
+    "english": "delicious food, cuisine",
+    "mongolian": "амттан хоол"
+  },
+  {
+    "hanzi": "梦",
+    "pinyin": "mèng",
+    "pos": "名/动词",
+    "english": "dream; to dream",
+    "mongolian": "зүүд"
+  },
+  {
+    "hanzi": "梦想",
+    "pinyin": "mèngxiǎng",
+    "pos": "动/名词",
+    "english": "to dream; dream",
+    "mongolian": "мөрөөдөх; мөрөөдөл"
+  },
+  {
+    "hanzi": "密码",
+    "pinyin": "mìmǎ",
+    "pos": "名词",
+    "english": "password, PIN code",
+    "mongolian": "нууц үг"
+  },
+  {
+    "hanzi": "免费",
+    "pinyin": "miǎnfèi",
+    "pos": "动词",
+    "english": "free of charge, to be free",
+    "mongolian": "үнэгүй"
+  },
+  {
+    "hanzi": "面对",
+    "pinyin": "miànduì",
+    "pos": "动词",
+    "english": "to face, to confront",
+    "mongolian": "тулгарах"
+  },
+  {
+    "hanzi": "面试",
+    "pinyin": "miànshì",
+    "pos": "动词",
+    "english": "interview, audition; to interview",
+    "mongolian": "ярилцлага өгөх"
+  },
+  {
+    "hanzi": "秒",
+    "pinyin": "miǎo",
+    "pos": "量词",
+    "english": "second, unit of time",
+    "mongolian": "секунд"
+  },
+  {
+    "hanzi": "民族",
+    "pinyin": "mínzú",
+    "pos": "名词",
+    "english": "ethnic group, nationality",
+    "mongolian": "үндэстэн"
+  },
+  {
+    "hanzi": "末",
+    "pinyin": "mò",
+    "pos": "名词",
+    "english": "end, last",
+    "mongolian": "төгсгөл"
+  },
+  {
+    "hanzi": "母女",
+    "pinyin": "mǔnǚ",
+    "pos": "名词",
+    "english": "mother and daughter",
+    "mongolian": "ээж охин"
+  },
+  {
+    "hanzi": "母亲",
+    "pinyin": "mǔqīn",
+    "pos": "名词",
+    "english": "mother",
+    "mongolian": "эх"
+  },
+  {
+    "hanzi": "母子",
+    "pinyin": "mǔzǐ",
+    "pos": "名词",
+    "english": "mother and son",
+    "mongolian": "ээж хүү"
+  },
+  {
+    "hanzi": "目标",
+    "pinyin": "mùbiāo",
+    "pos": "名词",
+    "english": "goal, target, objective",
+    "mongolian": "зорилго"
+  },
+  {
+    "hanzi": "目的",
+    "pinyin": "mùdì",
+    "pos": "名词",
+    "english": "purpose, aim, goal",
+    "mongolian": "зорилго"
+  },
+  {
+    "hanzi": "目的地",
+    "pinyin": "mùdìdì",
+    "pos": "名词",
+    "english": "destination",
+    "mongolian": "очих газар"
+  },
+  {
+    "hanzi": "目前",
+    "pinyin": "mùqián",
+    "pos": "名词",
+    "english": "currently, at present",
+    "mongolian": "одоогийн байдлаар"
+  },
+  {
+    "hanzi": "耐心",
+    "pinyin": "nàixīn",
+    "pos": "形/名词",
+    "english": "patient; patience",
+    "mongolian": "тэвчээртэй"
+  },
+  {
+    "hanzi": "南部",
+    "pinyin": "nánbù",
+    "pos": "名词",
+    "english": "southern part, south",
+    "mongolian": "өмнөд хэсэг"
+  },
+  {
+    "hanzi": "难道",
+    "pinyin": "nándào",
+    "pos": "副词",
+    "english": "could it be that...?",
+    "mongolian": "тийм биш үү"
+  },
+  {
+    "hanzi": "男士",
+    "pinyin": "nánshì",
+    "pos": "名词",
+    "english": "man, gentleman",
+    "mongolian": "эрэгтэй хүн"
+  },
+  {
+    "hanzi": "难受",
+    "pinyin": "nánshòu",
+    "pos": "形容词",
+    "english": "uncomfortable, painful, hard to bear",
+    "mongolian": "өвдөж зовсон"
+  },
+  {
+    "hanzi": "难忘",
+    "pinyin": "nánwàng",
+    "pos": "动词",
+    "english": "unforgettable, to be hard to forget",
+    "mongolian": "мартагдашгүй"
+  },
+  {
+    "hanzi": "男性",
+    "pinyin": "nánxìng",
+    "pos": "名词",
+    "english": "male, masculine",
+    "mongolian": "эрэгтэй хүйс"
+  },
+  {
+    "hanzi": "内",
+    "pinyin": "nèi",
+    "pos": "名词",
+    "english": "inside, within",
+    "mongolian": "дотор"
+  },
+  {
+    "hanzi": "内容",
+    "pinyin": "nèiróng",
+    "pos": "名词",
+    "english": "content, substance",
+    "mongolian": "агуулга"
+  },
+  {
+    "hanzi": "内心",
+    "pinyin": "nèixīn",
+    "pos": "名词",
+    "english": "heart, inner self",
+    "mongolian": "дотоод сэтгэл"
+  },
+  {
+    "hanzi": "能否",
+    "pinyin": "néng fǒu",
+    "pos": "副词",
+    "english": "whether or not, can or cannot",
+    "mongolian": "чадах эсэх"
+  },
+  {
+    "hanzi": "能够",
+    "pinyin": "nénggòu",
+    "pos": "动词",
+    "english": "can, be able to, be capable of",
+    "mongolian": "чадах"
+  },
+  {
+    "hanzi": "能力",
+    "pinyin": "nénglì",
+    "pos": "名词",
+    "english": "ability, capability, capacity",
+    "mongolian": "чадвар"
+  },
+  {
+    "hanzi": "嗯",
+    "pinyin": "ǹg",
+    "pos": "叹词",
+    "english": "uh-huh, hmm",
+    "mongolian": "за (өнгө үг)"
+  },
+  {
+    "hanzi": "年底",
+    "pinyin": "niándǐ",
+    "pos": "名词",
+    "english": "end of the year",
+    "mongolian": "жилийн эцэс"
+  },
+  {
+    "hanzi": "年龄",
+    "pinyin": "niánlíng",
+    "pos": "名词",
+    "english": "age",
+    "mongolian": "нас"
+  },
+  {
+    "hanzi": "农村",
+    "pinyin": "nóngcūn",
+    "pos": "名词",
+    "english": "rural area, countryside",
+    "mongolian": "хөдөө орон нутаг"
+  },
+  {
+    "hanzi": "弄",
+    "pinyin": "nòng",
+    "pos": "动词",
+    "english": "to do, to handle, to mess with",
+    "mongolian": "хийх"
+  },
+  {
+    "hanzi": "女性",
+    "pinyin": "nǚxìng",
+    "pos": "名词",
+    "english": "female, feminine",
+    "mongolian": "эмэгтэй хүйс"
+  },
+  {
+    "hanzi": "暖和",
+    "pinyin": "nuǎnhuo",
+    "pos": "形/动词",
+    "english": "warm; to warm up",
+    "mongolian": "дулаан"
+  },
+  {
+    "hanzi": "偶尔",
+    "pinyin": "ǒu'ěr",
+    "pos": "副/形容词",
+    "english": "occasionally, sometimes; occasional",
+    "mongolian": "заримдаа"
+  },
+  {
+    "hanzi": "拍",
+    "pinyin": "pāi",
+    "pos": "动/名词",
+    "english": "to pat, to clap, to take (a photo); beat, rhythm",
+    "mongolian": "алгадах, зураг авах"
+  },
+  {
+    "hanzi": "排",
+    "pinyin": "pái",
+    "pos": "动/名/量词",
+    "english": "to line up, to arrange; row, line; measure word for rows",
+    "mongolian": "эгнэх; эгнээ"
+  },
+  {
+    "hanzi": "牌",
+    "pinyin": "pái",
+    "pos": "名词",
+    "english": "card, brand, plaque, sign",
+    "mongolian": "тэмдэг, брэнд"
+  },
+  {
+    "hanzi": "排队",
+    "pinyin": "páiduì",
+    "pos": "动词",
+    "english": "to line up, to queue up",
+    "mongolian": "дараалалд зогсох"
+  },
+  {
+    "hanzi": "排球",
+    "pinyin": "páiqiú",
+    "pos": "名词",
+    "english": "volleyball",
+    "mongolian": "гар бөмбөг"
+  },
+  {
+    "hanzi": "牌子",
+    "pinyin": "páizi",
+    "pos": "名词",
+    "english": "brand, sign, label",
+    "mongolian": "брэнд"
+  },
+  {
+    "hanzi": "判断",
+    "pinyin": "pànduàn",
+    "pos": "动词",
+    "english": "to judge, to determine",
+    "mongolian": "дүгнэх"
+  },
+  {
+    "hanzi": "陪",
+    "pinyin": "péi",
+    "pos": "动词",
+    "english": "to accompany, to keep someone company",
+    "mongolian": "хамт байх"
+  },
+  {
+    "hanzi": "批评",
+    "pinyin": "pīpíng",
+    "pos": "动词",
+    "english": "to criticize",
+    "mongolian": "шүүмжлэх"
+  },
+  {
+    "hanzi": "皮肤",
+    "pinyin": "pífū",
+    "pos": "名词",
+    "english": "skin",
+    "mongolian": "арьс"
+  },
+  {
+    "hanzi": "脾气",
+    "pinyin": "píqi",
+    "pos": "名词",
+    "english": "temperament, disposition, temper",
+    "mongolian": "зан ааш"
+  },
+  {
+    "hanzi": "皮鞋",
+    "pinyin": "píxié",
+    "pos": "名词",
+    "english": "leather shoes",
+    "mongolian": "арьсан гутал"
+  },
+  {
+    "hanzi": "篇",
+    "pinyin": "piān",
+    "pos": "名/量词",
+    "english": "measure word for essays, articles, papers; piece, sheet",
+    "mongolian": "өгүүллэг тоолох үг"
+  },
+  {
+    "hanzi": "片",
+    "pinyin": "piàn",
+    "pos": "名/量词",
+    "english": "piece, slice, area; measure word for flat objects",
+    "mongolian": "хэсэг"
+  },
+  {
+    "hanzi": "乒乓球",
+    "pinyin": "pīngpāngqiú",
+    "pos": "名词",
+    "english": "table tennis, ping-pong",
+    "mongolian": "ширээний теннис"
+  },
+  {
+    "hanzi": "平常",
+    "pinyin": "píngcháng",
+    "pos": "形/名词",
+    "english": "ordinary, usual; usually, ordinarily",
+    "mongolian": "ердийн"
+  },
+  {
+    "hanzi": "破",
+    "pinyin": "pò",
+    "pos": "动/形容词",
+    "english": "broken, damaged; to break, to ruin",
+    "mongolian": "эвдэрсэн"
+  },
+  {
+    "hanzi": "葡萄",
+    "pinyin": "pútao",
+    "pos": "名词",
+    "english": "grape",
+    "mongolian": "усан үзэм"
+  },
+  {
+    "hanzi": "葡萄酒",
+    "pinyin": "pútaojiǔ",
+    "pos": "名词",
+    "english": "wine, grape wine",
+    "mongolian": "дарс"
+  },
+  {
+    "hanzi": "普遍",
+    "pinyin": "pǔbiàn",
+    "pos": "形容词",
+    "english": "widespread, universal, common",
+    "mongolian": "түгээмэл"
+  },
+  {
+    "hanzi": "普通",
+    "pinyin": "pǔtōng",
+    "pos": "形容词",
+    "english": "ordinary, common",
+    "mongolian": "энгийн"
+  },
+  {
+    "hanzi": "普通话",
+    "pinyin": "pǔtōnghuà",
+    "pos": "名词",
+    "english": "Mandarin Chinese, standard Chinese",
+    "mongolian": "Путунхуа (хятад стандарт хэл)"
+  },
+  {
+    "hanzi": "期",
+    "pinyin": "qī",
+    "pos": "量词",
+    "english": "period, phase; measure word for issues, semesters, etc.",
+    "mongolian": "хугацаа тоолох үг"
+  },
+  {
+    "hanzi": "期末",
+    "pinyin": "qīmò",
+    "pos": "名词",
+    "english": "end of term, end of semester",
+    "mongolian": "улирлын эцэс"
+  },
+  {
+    "hanzi": "期中",
+    "pinyin": "qīzhōng",
+    "pos": "名词",
+    "english": "midterm, middle of the term",
+    "mongolian": "улирлын дунд"
+  },
+  {
+    "hanzi": "其次",
+    "pinyin": "qícì",
+    "pos": "代词",
+    "english": "next, secondly, then",
+    "mongolian": "дараа нь"
+  },
+  {
+    "hanzi": "其中",
+    "pinyin": "qízhōng",
+    "pos": "名词",
+    "english": "among them, inside",
+    "mongolian": "тэдгээрийн дунд"
+  },
+  {
+    "hanzi": "起到",
+    "pinyin": "qǐdào",
+    "pos": "动词",
+    "english": "to play the role of, to function as, to act as",
+    "mongolian": "үүрэг гүйцэтгэх"
+  },
+  {
+    "hanzi": "气",
+    "pinyin": "qì",
+    "pos": "名/动词",
+    "english": "air, gas, breath; to anger, to make angry",
+    "mongolian": "агаар, уур"
+  },
+  {
+    "hanzi": "气候",
+    "pinyin": "qìhòu",
+    "pos": "名词",
+    "english": "climate",
+    "mongolian": "уур амьсгал"
+  },
+  {
+    "hanzi": "汽水",
+    "pinyin": "qìshuǐ",
+    "pos": "名词",
+    "english": "soda, soft drink",
+    "mongolian": "ундаа"
+  },
+  {
+    "hanzi": "气温",
+    "pinyin": "qìwēn",
+    "pos": "名词",
+    "english": "air temperature",
+    "mongolian": "агаарын температур"
+  },
+  {
+    "hanzi": "千克",
+    "pinyin": "qiānkè",
+    "pos": "量词",
+    "english": "kilogram",
+    "mongolian": "килограмм"
+  },
+  {
+    "hanzi": "千万",
+    "pinyin": "qiānwàn",
+    "pos": "副词",
+    "english": "ten million, by all means, absolutely",
+    "mongolian": "заавал"
+  },
+  {
+    "hanzi": "签证",
+    "pinyin": "qiānzhèng",
+    "pos": "动/名词",
+    "english": "visa; to issue a visa",
+    "mongolian": "виз"
+  },
+  {
+    "hanzi": "前方",
+    "pinyin": "qiánfāng",
+    "pos": "名词",
+    "english": "ahead, front",
+    "mongolian": "урд тал"
+  },
+  {
+    "hanzi": "前后",
+    "pinyin": "qiánhòu",
+    "pos": "名词",
+    "english": "front and back, around, about",
+    "mongolian": "өмнө хойно"
+  },
+  {
+    "hanzi": "强",
+    "pinyin": "qiáng",
+    "pos": "形容词",
+    "english": "strong, powerful",
+    "mongolian": "хүчтэй"
+  },
+  {
+    "hanzi": "敲",
+    "pinyin": "qiāo",
+    "pos": "动词",
+    "english": "to knock, to tap, to strike",
+    "mongolian": "тогших"
+  },
+  {
+    "hanzi": "桥",
+    "pinyin": "qiáo",
+    "pos": "名词",
+    "english": "bridge",
+    "mongolian": "гүүр"
+  },
+  {
+    "hanzi": "巧",
+    "pinyin": "qiǎo",
+    "pos": "形容词",
+    "english": "skillful, clever, opportune",
+    "mongolian": "авхаалжтай, таамгүй"
+  },
+  {
+    "hanzi": "巧克力",
+    "pinyin": "qiǎokèlì",
+    "pos": "名词",
+    "english": "chocolate",
+    "mongolian": "шоколад"
+  },
+  {
+    "hanzi": "亲戚",
+    "pinyin": "qīnqi",
+    "pos": "名词",
+    "english": "relative, relative family member",
+    "mongolian": "хамаатан садан"
+  },
+  {
+    "hanzi": "琴",
+    "pinyin": "qín",
+    "pos": "名词",
+    "english": "musical instrument, piano, etc.",
+    "mongolian": "хөгжмийн зэмсэг"
+  },
+  {
+    "hanzi": "轻",
+    "pinyin": "qīng",
+    "pos": "形容词",
+    "english": "light, not heavy, gentle, easy",
+    "mongolian": "хөнгөн"
+  },
+  {
+    "hanzi": "青年",
+    "pinyin": "qīngnián",
+    "pos": "名词",
+    "english": "youth, young people",
+    "mongolian": "залуу"
+  },
+  {
+    "hanzi": "轻松",
+    "pinyin": "qīngsōng",
+    "pos": "形容词",
+    "english": "relaxed, light, easy",
+    "mongolian": "хөнгөн, амархан"
+  },
+  {
+    "hanzi": "情况",
+    "pinyin": "qíngkuàng",
+    "pos": "名词",
+    "english": "situation, circumstance",
+    "mongolian": "байдал"
+  },
+  {
+    "hanzi": "庆祝",
+    "pinyin": "qìngzhù",
+    "pos": "动词",
+    "english": "to celebrate",
+    "mongolian": "тэмдэглэх"
+  },
+  {
+    "hanzi": "球队",
+    "pinyin": "qiúduì",
+    "pos": "名词",
+    "english": "sports team, ball team",
+    "mongolian": "спортын баг"
+  },
+  {
+    "hanzi": "球迷",
+    "pinyin": "qiúmí",
+    "pos": "名词",
+    "english": "fan, sports enthusiast",
+    "mongolian": "шүтэн бишрэгч"
+  },
+  {
+    "hanzi": "区",
+    "pinyin": "qū",
+    "pos": "名词",
+    "english": "district, area, region",
+    "mongolian": "дүүрэг"
+  },
+  {
+    "hanzi": "区别",
+    "pinyin": "qūbié",
+    "pos": "动/名词",
+    "english": "difference; to distinguish, to differ",
+    "mongolian": "ялгах; ялгаа"
+  },
+  {
+    "hanzi": "取",
+    "pinyin": "qǔ",
+    "pos": "动词",
+    "english": "to take, to get, to obtain",
+    "mongolian": "авах"
+  },
+  {
+    "hanzi": "取得",
+    "pinyin": "qǔdé",
+    "pos": "动词",
+    "english": "to obtain, to gain",
+    "mongolian": "олж авах"
+  },
+  {
+    "hanzi": "取消",
+    "pinyin": "qǔxiāo",
+    "pos": "动词",
+    "english": "to cancel, to call off",
+    "mongolian": "цуцлах"
+  },
+  {
+    "hanzi": "全",
+    "pinyin": "quán",
+    "pos": "形/副词",
+    "english": "whole, entire; completely, entirely",
+    "mongolian": "бүх"
+  },
+  {
+    "hanzi": "全部",
+    "pinyin": "quánbù",
+    "pos": "名词",
+    "english": "all, the whole thing",
+    "mongolian": "бүгд"
+  },
+  {
+    "hanzi": "全都",
+    "pinyin": "quándōu",
+    "pos": "副词",
+    "english": "all, entirely",
+    "mongolian": "бүгдээрээ"
+  },
+  {
+    "hanzi": "全球",
+    "pinyin": "quánqiú",
+    "pos": "名词",
+    "english": "the whole world, global",
+    "mongolian": "дэлхий даяар"
+  },
+  {
+    "hanzi": "全身",
+    "pinyin": "quánshēn",
+    "pos": "名词",
+    "english": "whole body",
+    "mongolian": "бүх бие"
+  },
+  {
+    "hanzi": "缺",
+    "pinyin": "quē",
+    "pos": "动词",
+    "english": "to lack, to be short of",
+    "mongolian": "дутагдах"
+  },
+  {
+    "hanzi": "缺点",
+    "pinyin": "quēdiǎn",
+    "pos": "名词",
+    "english": "shortcoming, defect",
+    "mongolian": "дутагдал"
+  },
+  {
+    "hanzi": "缺少",
+    "pinyin": "quēshǎo",
+    "pos": "动词",
+    "english": "to lack, to be short of",
+    "mongolian": "дутагдах"
+  },
+  {
+    "hanzi": "却",
+    "pinyin": "què",
+    "pos": "副词",
+    "english": "but, yet, however",
+    "mongolian": "харин"
+  },
+  {
+    "hanzi": "确实",
+    "pinyin": "quèshí",
+    "pos": "副词",
+    "english": "indeed, really",
+    "mongolian": "үнэхээр"
+  },
+  {
+    "hanzi": "然而",
+    "pinyin": "rán'ér",
+    "pos": "连词",
+    "english": "however, but",
+    "mongolian": "гэвч"
+  },
+  {
+    "hanzi": "热闹",
+    "pinyin": "rènao",
+    "pos": "形/动/名词",
+    "english": "lively, bustling; to liven up; lively atmosphere",
+    "mongolian": "хөгжилтэй"
+  },
+  {
+    "hanzi": "人生",
+    "pinyin": "rénshēng",
+    "pos": "名词",
+    "english": "life",
+    "mongolian": "хүний амьдрал"
+  },
+  {
+    "hanzi": "人数",
+    "pinyin": "rénshù",
+    "pos": "名词",
+    "english": "number of people",
+    "mongolian": "хүний тоо"
+  },
+  {
+    "hanzi": "人员",
+    "pinyin": "rényuán",
+    "pos": "名词",
+    "english": "personnel, staff",
+    "mongolian": "ажилтан"
+  },
+  {
+    "hanzi": "任何",
+    "pinyin": "rènhé",
+    "pos": "代词",
+    "english": "any, whatever",
+    "mongolian": "ямар ч"
+  },
+  {
+    "hanzi": "任务",
+    "pinyin": "rènwu",
+    "pos": "名词",
+    "english": "task, assignment, mission",
+    "mongolian": "даалгавар"
+  },
+  {
+    "hanzi": "扔",
+    "pinyin": "rēng",
+    "pos": "动词",
+    "english": "to throw, to toss",
+    "mongolian": "шидэх"
+  },
+  {
+    "hanzi": "仍",
+    "pinyin": "réng",
+    "pos": "副词",
+    "english": "still, yet",
+    "mongolian": "байсаар"
+  },
+  {
+    "hanzi": "仍然",
+    "pinyin": "réngrán",
+    "pos": "副词",
+    "english": "still, yet",
+    "mongolian": "байсаар"
+  },
+  {
+    "hanzi": "日常",
+    "pinyin": "rìcháng",
+    "pos": "形容词",
+    "english": "daily, everyday",
+    "mongolian": "өдөр тутмын"
+  },
+  {
+    "hanzi": "日记",
+    "pinyin": "rìjì",
+    "pos": "名词",
+    "english": "diary",
+    "mongolian": "өдрийн тэмдэглэл"
+  },
+  {
+    "hanzi": "日期",
+    "pinyin": "rìqī",
+    "pos": "名词",
+    "english": "date",
+    "mongolian": "огноо"
+  },
+  {
+    "hanzi": "日子",
+    "pinyin": "rìzi",
+    "pos": "名词",
+    "english": "day, life, time",
+    "mongolian": "өдөр, амьдрал"
+  },
+  {
+    "hanzi": "入",
+    "pinyin": "rù",
+    "pos": "动词",
+    "english": "to enter, to go in",
+    "mongolian": "орох"
+  },
+  {
+    "hanzi": "入口",
+    "pinyin": "rùkǒu",
+    "pos": "名词",
+    "english": "entrance",
+    "mongolian": "орох хаалга"
+  },
+  {
+    "hanzi": "入学",
+    "pinyin": "rùxué",
+    "pos": "动词",
+    "english": "to enter school, to enroll",
+    "mongolian": "сургуульд элсэх"
+  },
+  {
+    "hanzi": "入住",
+    "pinyin": "rùzhù",
+    "pos": "动词",
+    "english": "to check in, to move in",
+    "mongolian": "байрлах (буудалд)"
+  },
+  {
+    "hanzi": "散步",
+    "pinyin": "sànbù",
+    "pos": "动词",
+    "english": "to take a walk, to stroll",
+    "mongolian": "зугаалах"
+  },
+  {
+    "hanzi": "扫码",
+    "pinyin": "sǎomǎ",
+    "pos": "动词",
+    "english": "to scan a code",
+    "mongolian": "QR код уншуулах"
+  },
+  {
+    "hanzi": "森林",
+    "pinyin": "sēnlín",
+    "pos": "名词",
+    "english": "forest",
+    "mongolian": "ой"
+  },
+  {
+    "hanzi": "商量",
+    "pinyin": "shāngliang",
+    "pos": "动词",
+    "english": "to discuss, to consult",
+    "mongolian": "зөвлөлдөх"
+  },
+  {
+    "hanzi": "商品",
+    "pinyin": "shāngpǐn",
+    "pos": "名词",
+    "english": "product, commodity",
+    "mongolian": "бараа бүтээгдэхүүн"
+  },
+  {
+    "hanzi": "伤心",
+    "pinyin": "shāngxīn",
+    "pos": "形容词",
+    "english": "sad, heartbroken",
+    "mongolian": "сэтгэл зовсон"
+  },
+  {
+    "hanzi": "上门",
+    "pinyin": "shàngmén",
+    "pos": "动词",
+    "english": "to visit, to go to someone's house",
+    "mongolian": "гэрт нь очих"
+  },
+  {
+    "hanzi": "稍",
+    "pinyin": "shāo",
+    "pos": "副词",
+    "english": "a little, slightly",
+    "mongolian": "бага зэрэг"
+  },
+  {
+    "hanzi": "稍微",
+    "pinyin": "shāowēi",
+    "pos": "副词",
+    "english": "a little, slightly",
+    "mongolian": "бага зэрэг"
+  },
+  {
+    "hanzi": "少见",
+    "pinyin": "shǎojiàn",
+    "pos": "形容词",
+    "english": "rare, seldom seen",
+    "mongolian": "ховор тохиолддог"
+  },
+  {
+    "hanzi": "少量",
+    "pinyin": "shǎoliàng",
+    "pos": "形容词",
+    "english": "small amount, a little",
+    "mongolian": "бага хэмжээний"
+  },
+  {
+    "hanzi": "少数",
+    "pinyin": "shǎoshù",
+    "pos": "名词",
+    "english": "minority, small number",
+    "mongolian": "цөөнх"
+  },
+  {
+    "hanzi": "少年",
+    "pinyin": "shàonián",
+    "pos": "名词",
+    "english": "juvenile, teenager, youth",
+    "mongolian": "өсвөр насны"
+  },
+  {
+    "hanzi": "社会",
+    "pinyin": "shèhuì",
+    "pos": "名词",
+    "english": "society, community",
+    "mongolian": "нийгэм"
+  },
+  {
+    "hanzi": "摄氏度",
+    "pinyin": "shèshìdù",
+    "pos": "量词",
+    "english": "degrees Celsius",
+    "mongolian": "Цельсийн градус"
+  },
+  {
+    "hanzi": "身",
+    "pinyin": "shēn",
+    "pos": "名/量词",
+    "english": "body, oneself; measure word for clothes",
+    "mongolian": "бие"
+  },
+  {
+    "hanzi": "深",
+    "pinyin": "shēn",
+    "pos": "形容词",
+    "english": "deep, profound; (deeply, late)",
+    "mongolian": "гүн"
+  },
+  {
+    "hanzi": "身份证",
+    "pinyin": "shēnfènzhèng",
+    "pos": "名词",
+    "english": "ID card, identification card",
+    "mongolian": "иргэний үнэмлэх"
+  },
+  {
+    "hanzi": "申请",
+    "pinyin": "shēnqǐng",
+    "pos": "动词",
+    "english": "to apply, to file an application",
+    "mongolian": "хүсэлт гаргах"
+  },
+  {
+    "hanzi": "甚至",
+    "pinyin": "shènzhì",
+    "pos": "连词",
+    "english": "even, so much as that",
+    "mongolian": "бүр"
+  },
+  {
+    "hanzi": "生",
+    "pinyin": "shēng",
+    "pos": "动词",
+    "english": "to give birth, to produce, to grow",
+    "mongolian": "төрөх"
+  },
+  {
+    "hanzi": "生",
+    "pinyin": "shēng",
+    "pos": "形容词",
+    "english": "raw, uncooked, unripe; (very, extremely, terribly)",
+    "mongolian": "түүхий, боловсроогүй"
+  },
+  {
+    "hanzi": "生命",
+    "pinyin": "shēngmìng",
+    "pos": "名词",
+    "english": "life",
+    "mongolian": "амь нас"
+  },
+  {
+    "hanzi": "生意",
+    "pinyin": "shēngyi",
+    "pos": "名词",
+    "english": "business, trade",
+    "mongolian": "худалдаа наймаа"
+  },
+  {
+    "hanzi": "省",
+    "pinyin": "shěng",
+    "pos": "名词",
+    "english": "province",
+    "mongolian": "муж"
+  },
+  {
+    "hanzi": "剩",
+    "pinyin": "shèng",
+    "pos": "动词",
+    "english": "to be left over, to remain",
+    "mongolian": "үлдэх"
+  },
+  {
+    "hanzi": "失败",
+    "pinyin": "shībài",
+    "pos": "动/形容词",
+    "english": "to fail; failed, unsuccessful",
+    "mongolian": "бүтэлгүйтэх"
+  },
+  {
+    "hanzi": "师傅",
+    "pinyin": "shīfu",
+    "pos": "名词",
+    "english": "master, skilled worker, respectful address",
+    "mongolian": "мастер"
+  },
+  {
+    "hanzi": "失去",
+    "pinyin": "shīqù",
+    "pos": "动词",
+    "english": "to lose, to be lost",
+    "mongolian": "алдах"
+  },
+  {
+    "hanzi": "师生",
+    "pinyin": "shīshēng",
+    "pos": "名词",
+    "english": "teacher and student, teachers and students",
+    "mongolian": "багш сурагч"
+  },
+  {
+    "hanzi": "失望",
+    "pinyin": "shīwàng",
+    "pos": "动/形容词",
+    "english": "to be disappointed, to lose hope; disappointed",
+    "mongolian": "урам хугарах"
+  },
+  {
+    "hanzi": "十分",
+    "pinyin": "shífēn",
+    "pos": "副词",
+    "english": "very, extremely, fully",
+    "mongolian": "маш их"
+  },
+  {
+    "hanzi": "实际",
+    "pinyin": "shíjì",
+    "pos": "名/形容词",
+    "english": "reality, actuality; actual, practical",
+    "mongolian": "бодит байдал"
+  },
+  {
+    "hanzi": "时间表",
+    "pinyin": "shíjiānbiǎo",
+    "pos": "名词",
+    "english": "schedule, timetable",
+    "mongolian": "хуваарь"
+  },
+  {
+    "hanzi": "实际上",
+    "pinyin": "shíjìshàng",
+    "pos": "副词",
+    "english": "actually, in fact",
+    "mongolian": "үнэндээ"
+  },
+  {
+    "hanzi": "食品",
+    "pinyin": "shípǐn",
+    "pos": "名词",
+    "english": "food, provisions",
+    "mongolian": "хүнсний бүтээгдэхүүн"
+  },
+  {
+    "hanzi": "食堂",
+    "pinyin": "shítáng",
+    "pos": "名词",
+    "english": "cafeteria, dining hall",
+    "mongolian": "хоолны газар"
+  },
+  {
+    "hanzi": "食物",
+    "pinyin": "shíwù",
+    "pos": "名词",
+    "english": "food",
+    "mongolian": "хүнс"
+  },
+  {
+    "hanzi": "实在",
+    "pinyin": "shízài",
+    "pos": "形/副词",
+    "english": "honest, reliable; really, indeed",
+    "mongolian": "үнэндээ"
+  },
+  {
+    "hanzi": "十字路口",
+    "pinyin": "shízì lùkǒu",
+    "pos": "名词",
+    "english": "intersection, crossroads",
+    "mongolian": "уулзвар"
+  },
+  {
+    "hanzi": "使",
+    "pinyin": "shǐ",
+    "pos": "动词",
+    "english": "to make, to cause, to use",
+    "mongolian": "хийлгэх (болгох)"
+  },
+  {
+    "hanzi": "使馆",
+    "pinyin": "shǐguǎn",
+    "pos": "名词",
+    "english": "embassy",
+    "mongolian": "элчин сайдын яам"
+  },
+  {
+    "hanzi": "使用",
+    "pinyin": "shǐyòng",
+    "pos": "动词",
+    "english": "to use, to employ",
+    "mongolian": "хэрэглэх"
+  },
+  {
+    "hanzi": "市场",
+    "pinyin": "shìchǎng",
+    "pos": "名词",
+    "english": "market, marketplace",
+    "mongolian": "зах зээл"
+  },
+  {
+    "hanzi": "是否",
+    "pinyin": "shìfǒu",
+    "pos": "副词",
+    "english": "whether or not, if",
+    "mongolian": "эсэх нь"
+  },
+  {
+    "hanzi": "适合",
+    "pinyin": "shìhé",
+    "pos": "动词",
+    "english": "to suit, to fit, to be suitable",
+    "mongolian": "тохирох"
+  },
+  {
+    "hanzi": "世纪",
+    "pinyin": "shìjì",
+    "pos": "名词",
+    "english": "century",
+    "mongolian": "зуун"
+  },
+  {
+    "hanzi": "视频",
+    "pinyin": "shìpín",
+    "pos": "名词",
+    "english": "video, video clip",
+    "mongolian": "бичлэг"
+  },
+  {
+    "hanzi": "市区",
+    "pinyin": "shìqū",
+    "pos": "名词",
+    "english": "urban area, city center",
+    "mongolian": "хотын төв"
+  },
+  {
+    "hanzi": "试题",
+    "pinyin": "shìtí",
+    "pos": "名词",
+    "english": "test questions, exam paper",
+    "mongolian": "шалгалтын асуулт"
+  },
+  {
+    "hanzi": "适应",
+    "pinyin": "shìyìng",
+    "pos": "动词",
+    "english": "to adapt, to fit, to suit",
+    "mongolian": "дасан зохицох"
+  },
+  {
+    "hanzi": "收费",
+    "pinyin": "shōufèi",
+    "pos": "动词",
+    "english": "to charge a fee, to collect payment",
+    "mongolian": "хураамж авах"
+  },
+  {
+    "hanzi": "收入",
+    "pinyin": "shōurù",
+    "pos": "动/名词",
+    "english": "to receive, to take in; income, revenue",
+    "mongolian": "орлого олох; орлого"
+  },
+  {
+    "hanzi": "收拾",
+    "pinyin": "shōushi",
+    "pos": "动词",
+    "english": "to put in order, to tidy up, to pack",
+    "mongolian": "цэгцлэх"
+  },
+  {
+    "hanzi": "收听",
+    "pinyin": "shōutīng",
+    "pos": "动词",
+    "english": "to listen in, to tune in",
+    "mongolian": "сонсох (радио)"
+  },
+  {
+    "hanzi": "首",
+    "pinyin": "shǒu",
+    "pos": "量词",
+    "english": "measure word for songs, poems, etc.",
+    "mongolian": "дуу шүлэг тоолох үг"
+  },
+  {
+    "hanzi": "首都",
+    "pinyin": "shǒudū",
+    "pos": "名词",
+    "english": "capital",
+    "mongolian": "нийслэл"
+  },
+  {
+    "hanzi": "首先",
+    "pinyin": "shǒuxiān",
+    "pos": "副词",
+    "english": "first, firstly; first of all",
+    "mongolian": "юуны өмнө"
+  },
+  {
+    "hanzi": "受不了",
+    "pinyin": "shòubuliǎo",
+    "pos": "动词",
+    "english": "to be unable to bear, to be unable to stand",
+    "mongolian": "тэсэж чадахгүй байх"
+  },
+  {
+    "hanzi": "售票员",
+    "pinyin": "shòupiàoyuán",
+    "pos": "名词",
+    "english": "ticket seller, conductor",
+    "mongolian": "тасалбар зарагч"
+  },
+  {
+    "hanzi": "受伤",
+    "pinyin": "shòushāng",
+    "pos": "动词",
+    "english": "to be injured, to get hurt",
+    "mongolian": "гэмтэх"
+  },
+  {
+    "hanzi": "输",
+    "pinyin": "shū",
+    "pos": "动词",
+    "english": "to lose, to be defeated; to transport",
+    "mongolian": "хожигдох"
+  },
+  {
+    "hanzi": "熟",
+    "pinyin": "shú",
+    "pos": "形容词",
+    "english": "ripe, cooked, mature",
+    "mongolian": "боловсорсон, чанасан"
+  },
+  {
+    "hanzi": "熟悉",
+    "pinyin": "shúxi",
+    "pos": "动词",
+    "english": "to be familiar with, to know well",
+    "mongolian": "сайн мэдэх"
+  },
+  {
+    "hanzi": "暑假",
+    "pinyin": "shǔjià",
+    "pos": "名词",
+    "english": "summer vacation",
+    "mongolian": "зуны амралт"
+  },
+  {
+    "hanzi": "数",
+    "pinyin": "shù",
+    "pos": "名/数词",
+    "english": "number, figure; several, a few",
+    "mongolian": "тоо"
+  },
+  {
+    "hanzi": "数量",
+    "pinyin": "shùliàng",
+    "pos": "名词",
+    "english": "quantity, amount",
+    "mongolian": "тоо хэмжээ"
+  },
+  {
+    "hanzi": "树林",
+    "pinyin": "shùlín",
+    "pos": "名词",
+    "english": "woods, forest",
+    "mongolian": "ойн мод"
+  },
+  {
+    "hanzi": "数字",
+    "pinyin": "shùzì",
+    "pos": "名词",
+    "english": "digit, figure, number",
+    "mongolian": "тоо"
+  },
+  {
+    "hanzi": "帅",
+    "pinyin": "shuài",
+    "pos": "形容词",
+    "english": "handsome, good-looking",
+    "mongolian": "царайлаг"
+  },
+  {
+    "hanzi": "顺便",
+    "pinyin": "shùnbiàn",
+    "pos": "副词",
+    "english": "conveniently, in passing",
+    "mongolian": "замаар нь"
+  },
+  {
+    "hanzi": "顺利",
+    "pinyin": "shùnlì",
+    "pos": "形容词",
+    "english": "smooth, successful, going well",
+    "mongolian": "амжилттай, саадгүй"
+  },
+  {
+    "hanzi": "顺序",
+    "pinyin": "shùnxù",
+    "pos": "名词",
+    "english": "order, sequence",
+    "mongolian": "дараалал"
+  },
+  {
+    "hanzi": "说法",
+    "pinyin": "shuōfǎ",
+    "pos": "名词",
+    "english": "way of saying something, version, statement",
+    "mongolian": "хэлэх арга"
+  },
+  {
+    "hanzi": "说明",
+    "pinyin": "shuōmíng",
+    "pos": "动/名词",
+    "english": "to explain, to clarify; explanation, instructions",
+    "mongolian": "тайлбарлах; тайлбар"
+  },
+  {
+    "hanzi": "说明书",
+    "pinyin": "shuōmíngshū",
+    "pos": "名词",
+    "english": "instruction manual, user guide, explanatory booklet",
+    "mongolian": "заавар"
+  },
+  {
+    "hanzi": "硕士",
+    "pinyin": "shuòshì",
+    "pos": "名词",
+    "english": "master",
+    "mongolian": "магистр"
+  },
+  {
+    "hanzi": "死",
+    "pinyin": "sǐ",
+    "pos": "动/形容词",
+    "english": "to die, to be dead; dead, extreme; extremely, to death",
+    "mongolian": "үхэх"
+  },
+  {
+    "hanzi": "速度",
+    "pinyin": "sùdù",
+    "pos": "名词",
+    "english": "speed",
+    "mongolian": "хурд"
+  },
+  {
+    "hanzi": "塑料",
+    "pinyin": "sùliào",
+    "pos": "名词",
+    "english": "plastic",
+    "mongolian": "хуванцар"
+  },
+  {
+    "hanzi": "酸",
+    "pinyin": "suān",
+    "pos": "形容词",
+    "english": "sour, tart",
+    "mongolian": "хүчиллэг"
+  },
+  {
+    "hanzi": "酸奶",
+    "pinyin": "suānnǎi",
+    "pos": "名词",
+    "english": "yogurt",
+    "mongolian": "тараг"
+  },
+  {
+    "hanzi": "算",
+    "pinyin": "suàn",
+    "pos": "动/副词",
+    "english": "to calculate, to count; considered, at last",
+    "mongolian": "тооцоолох"
+  },
+  {
+    "hanzi": "随便",
+    "pinyin": "suíbiàn",
+    "pos": "动/形/连词",
+    "english": "to do as one pleases, casual; casual, informal; anyway, whatever",
+    "mongolian": "дур зоргоороо"
+  },
+  {
+    "hanzi": "随着",
+    "pinyin": "suízhe",
+    "pos": "介词",
+    "english": "along with, following",
+    "mongolian": "дагаад"
+  },
+  {
+    "hanzi": "孙女",
+    "pinyin": "sūnnǚ",
+    "pos": "名词",
+    "english": "granddaughter",
+    "mongolian": "ач охин"
+  },
+  {
+    "hanzi": "孙子",
+    "pinyin": "sūnzi",
+    "pos": "名词",
+    "english": "grandson",
+    "mongolian": "ач хүү"
+  },
+  {
+    "hanzi": "所有",
+    "pinyin": "suǒyǒu",
+    "pos": "形容词",
+    "english": "all, every; (to possess, to own)",
+    "mongolian": "бүх"
+  },
+  {
+    "hanzi": "台",
+    "pinyin": "tái",
+    "pos": "量词",
+    "english": "measure word for machines, vehicles, etc.; (platform, stage)",
+    "mongolian": "машин техник тоолох үг"
+  },
+  {
+    "hanzi": "抬",
+    "pinyin": "tái",
+    "pos": "动词",
+    "english": "to lift, to raise",
+    "mongolian": "өргөх"
+  },
+  {
+    "hanzi": "抬头",
+    "pinyin": "táitóu",
+    "pos": "动词",
+    "english": "to raise one's head, to look up",
+    "mongolian": "толгой өргөх"
+  },
+  {
+    "hanzi": "态度",
+    "pinyin": "tàidù",
+    "pos": "名词",
+    "english": "attitude, manner",
+    "mongolian": "хандлага"
+  },
+  {
+    "hanzi": "弹",
+    "pinyin": "tán",
+    "pos": "动词",
+    "english": "to play, to spring",
+    "mongolian": "тоглох (хөгжим)"
+  },
+  {
+    "hanzi": "谈",
+    "pinyin": "tán",
+    "pos": "动词",
+    "english": "to talk, to discuss",
+    "mongolian": "ярилцах"
+  },
+  {
+    "hanzi": "汤",
+    "pinyin": "tāng",
+    "pos": "名词",
+    "english": "soup",
+    "mongolian": "шөл"
+  },
+  {
+    "hanzi": "躺",
+    "pinyin": "tǎng",
+    "pos": "动词",
+    "english": "to lie down",
+    "mongolian": "хэвтэх"
+  },
+  {
+    "hanzi": "趟",
+    "pinyin": "tàng",
+    "pos": "量词",
+    "english": "measure word for trips, journeys",
+    "mongolian": "удаа (аялал) тоолох үг"
+  },
+  {
+    "hanzi": "讨论",
+    "pinyin": "tǎolùn",
+    "pos": "动词",
+    "english": "to discuss, to talk over",
+    "mongolian": "хэлэлцэх"
+  },
+  {
+    "hanzi": "讨厌",
+    "pinyin": "tǎoyàn",
+    "pos": "形/动词",
+    "english": "disgusting, annoying; to dislike, to loathe",
+    "mongolian": "жигших"
+  },
+  {
+    "hanzi": "同时",
+    "pinyin": "tóngshí",
+    "pos": "名/连词",
+    "english": "at the same time; meanwhile, moreover",
+    "mongolian": "нэгэн зэрэг"
+  },
+  {
+    "hanzi": "同样",
+    "pinyin": "tóngyàng",
+    "pos": "形容词",
+    "english": "same, similar",
+    "mongolian": "адилхан"
+  },
+  {
+    "hanzi": "桶",
+    "pinyin": "tǒng",
+    "pos": "名词",
+    "english": "bucket, barrel",
+    "mongolian": "хувин"
+  },
+  {
+    "hanzi": "痛",
+    "pinyin": "tòng",
+    "pos": "形容词",
+    "english": "painful, sore; (extremely, bitterly)",
+    "mongolian": "өвдөлттэй"
+  },
+  {
+    "hanzi": "特点",
+    "pinyin": "tèdiǎn",
+    "pos": "名词",
+    "english": "characteristic, feature",
+    "mongolian": "онцлог"
+  },
+  {
+    "hanzi": "提",
+    "pinyin": "tí",
+    "pos": "动词",
+    "english": "to carry, to lift, to mention, to bring up",
+    "mongolian": "барих, дурдах"
+  },
+  {
+    "hanzi": "提出",
+    "pinyin": "tíchū",
+    "pos": "动词",
+    "english": "to put forward, to propose, to raise",
+    "mongolian": "дэвшүүлэх"
+  },
+  {
+    "hanzi": "提到",
+    "pinyin": "tídào",
+    "pos": "动词",
+    "english": "to mention, to refer to",
+    "mongolian": "дурдах"
+  },
+  {
+    "hanzi": "提供",
+    "pinyin": "tígōng",
+    "pos": "动词",
+    "english": "to provide, to supply, to offer",
+    "mongolian": "хангах"
+  },
+  {
+    "hanzi": "提前",
+    "pinyin": "tíqián",
+    "pos": "动词",
+    "english": "to advance, to move up, to do something ahead of time",
+    "mongolian": "урьдчилах"
+  },
+  {
+    "hanzi": "提醒",
+    "pinyin": "tíxǐng",
+    "pos": "动词",
+    "english": "to remind, to alert",
+    "mongolian": "сануулах"
+  },
+  {
+    "hanzi": "体检",
+    "pinyin": "tǐjiǎn",
+    "pos": "动词",
+    "english": "to undergo a physical examination, to have a medical checkup",
+    "mongolian": "эрүүл мэндийн үзлэг хийлгэх"
+  },
+  {
+    "hanzi": "体温",
+    "pinyin": "tǐwēn",
+    "pos": "名词",
+    "english": "body temperature",
+    "mongolian": "биеийн халуун"
+  },
+  {
+    "hanzi": "体重",
+    "pinyin": "tǐzhòng",
+    "pos": "名词",
+    "english": "body weight",
+    "mongolian": "биеийн жин"
+  },
+  {
+    "hanzi": "填写",
+    "pinyin": "tiánxiě",
+    "pos": "动词",
+    "english": "to fill in, to complete (a form)",
+    "mongolian": "бөглөх"
+  },
+  {
+    "hanzi": "条件",
+    "pinyin": "tiáojiàn",
+    "pos": "名词",
+    "english": "condition, requirement, terms",
+    "mongolian": "нөхцөл"
+  },
+  {
+    "hanzi": "听力",
+    "pinyin": "tīnglì",
+    "pos": "名词",
+    "english": "listening ability, hearing",
+    "mongolian": "сонсголын чадвар"
+  },
+  {
+    "hanzi": "听众",
+    "pinyin": "tīngzhòng",
+    "pos": "名词",
+    "english": "audience, listeners",
+    "mongolian": "сонсогчид"
+  },
+  {
+    "hanzi": "停",
+    "pinyin": "tíng",
+    "pos": "动词",
+    "english": "to stop, to halt",
+    "mongolian": "зогсох"
+  },
+  {
+    "hanzi": "停车",
+    "pinyin": "tíngchē",
+    "pos": "动词",
+    "english": "to park, to stop a vehicle",
+    "mongolian": "машин зогсоох"
+  },
+  {
+    "hanzi": "停车场",
+    "pinyin": "tíngchēchǎng",
+    "pos": "名词",
+    "english": "parking lot",
+    "mongolian": "зогсоол"
+  },
+  {
+    "hanzi": "停止",
+    "pinyin": "tíngzhǐ",
+    "pos": "动词",
+    "english": "to stop, to cease",
+    "mongolian": "зогсоох"
+  },
+  {
+    "hanzi": "通",
+    "pinyin": "tōng",
+    "pos": "动/形容词",
+    "english": "to go through, to be open; to lead to, to connect",
+    "mongolian": "дамжих, холбогдох"
+  },
+  {
+    "hanzi": "通过",
+    "pinyin": "tōngguò",
+    "pos": "动/介词",
+    "english": "to pass through, to go through; by means of",
+    "mongolian": "дамжуулан"
+  },
+  {
+    "hanzi": "通知",
+    "pinyin": "tōngzhī",
+    "pos": "动/名词",
+    "english": "to notify, to inform; notice, notification",
+    "mongolian": "мэдэгдэх; мэдэгдэл"
+  },
+  {
+    "hanzi": "童年",
+    "pinyin": "tóngnián",
+    "pos": "名词",
+    "english": "childhood",
+    "mongolian": "бага нас"
+  },
+  {
+    "hanzi": "头痛",
+    "pinyin": "tóutòng",
+    "pos": "形容词",
+    "english": "headache",
+    "mongolian": "толгой өвдөх"
+  },
+  {
+    "hanzi": "图",
+    "pinyin": "tú",
+    "pos": "名词",
+    "english": "picture, drawing, diagram; (to plan, to scheme)",
+    "mongolian": "зураг"
+  },
+  {
+    "hanzi": "图片",
+    "pinyin": "túpiàn",
+    "pos": "名词",
+    "english": "picture, image, photograph",
+    "mongolian": "зураг"
+  },
+  {
+    "hanzi": "土",
+    "pinyin": "tǔ",
+    "pos": "名词",
+    "english": "earth, soil, land; (rustic, unrefined)",
+    "mongolian": "шороо"
+  },
+  {
+    "hanzi": "推",
+    "pinyin": "tuī",
+    "pos": "动词",
+    "english": "to push, to shove",
+    "mongolian": "түлхэх"
+  },
+  {
+    "hanzi": "推迟",
+    "pinyin": "tuīchí",
+    "pos": "动词",
+    "english": "to postpone, to delay",
+    "mongolian": "хойшлуулах"
+  },
+  {
+    "hanzi": "推出",
+    "pinyin": "tuīchū",
+    "pos": "动词",
+    "english": "to launch, to push out, to introduce",
+    "mongolian": "нэвтрүүлэх"
+  },
+  {
+    "hanzi": "脱",
+    "pinyin": "tuō",
+    "pos": "动词",
+    "english": "to take off, to shed",
+    "mongolian": "тайлах"
+  },
+  {
+    "hanzi": "袜子",
+    "pinyin": "wàzi",
+    "pos": "名词",
+    "english": "socks",
+    "mongolian": "оймс"
+  },
+  {
+    "hanzi": "外出",
+    "pinyin": "wàichū",
+    "pos": "动词",
+    "english": "to go out, to leave home",
+    "mongolian": "гадагшаа явах"
+  },
+  {
+    "hanzi": "外套",
+    "pinyin": "wàitào",
+    "pos": "名词",
+    "english": "coat, jacket",
+    "mongolian": "куртка"
+  },
+  {
+    "hanzi": "完全",
+    "pinyin": "wánquán",
+    "pos": "形/副词",
+    "english": "complete, total; completely, absolutely",
+    "mongolian": "бүрэн"
+  },
+  {
+    "hanzi": "晚安",
+    "pinyin": "wǎn'ān",
+    "pos": "动词",
+    "english": "good night",
+    "mongolian": "сайхан амраарай"
+  },
+  {
+    "hanzi": "晚餐",
+    "pinyin": "wǎncān",
+    "pos": "名词",
+    "english": "dinner, supper",
+    "mongolian": "оройн хоол"
+  },
+  {
+    "hanzi": "网购",
+    "pinyin": "wǎnggòu",
+    "pos": "动词",
+    "english": "to shop online",
+    "mongolian": "онлайнаар худалдаа хийх"
+  },
+  {
+    "hanzi": "往往",
+    "pinyin": "wǎngwǎng",
+    "pos": "副词",
+    "english": "often, frequently",
+    "mongolian": "ихэвчлэн"
+  },
+  {
+    "hanzi": "网页",
+    "pinyin": "wǎngyè",
+    "pos": "名词",
+    "english": "webpage",
+    "mongolian": "вэб хуудас"
+  },
+  {
+    "hanzi": "网友",
+    "pinyin": "wǎngyǒu",
+    "pos": "名词",
+    "english": "netizen, internet user",
+    "mongolian": "онлайн найз"
+  },
+  {
+    "hanzi": "网址",
+    "pinyin": "wǎngzhǐ",
+    "pos": "名词",
+    "english": "website URL, web address",
+    "mongolian": "вэб хаяг"
+  },
+  {
+    "hanzi": "危险",
+    "pinyin": "wēixiǎn",
+    "pos": "形/名词",
+    "english": "dangerous; danger",
+    "mongolian": "аюултай; аюул"
+  },
+  {
+    "hanzi": "为",
+    "pinyin": "wéi",
+    "pos": "动词",
+    "english": "to do, to act, to serve as",
+    "mongolian": "байх, үйлдэх"
+  },
+  {
+    "hanzi": "味",
+    "pinyin": "wèi",
+    "pos": "名词",
+    "english": "taste, flavor",
+    "mongolian": "амт"
+  },
+  {
+    "hanzi": "味道",
+    "pinyin": "wèidào",
+    "pos": "名词",
+    "english": "taste, flavor",
+    "mongolian": "амт"
+  },
+  {
+    "hanzi": "卫生",
+    "pinyin": "wèishēng",
+    "pos": "形/名词",
+    "english": "hygiene, sanitation; clean, hygienic",
+    "mongolian": "эрүүл ахуй"
+  },
+  {
+    "hanzi": "温度",
+    "pinyin": "wēndù",
+    "pos": "名词",
+    "english": "temperature",
+    "mongolian": "температур"
+  },
+  {
+    "hanzi": "闻",
+    "pinyin": "wén",
+    "pos": "动词",
+    "english": "to smell, to sniff",
+    "mongolian": "үнэрлэх"
+  },
+  {
+    "hanzi": "文件",
+    "pinyin": "wénjiàn",
+    "pos": "名词",
+    "english": "document, file",
+    "mongolian": "баримт бичиг"
+  },
+  {
+    "hanzi": "文章",
+    "pinyin": "wénzhāng",
+    "pos": "名词",
+    "english": "essay, article",
+    "mongolian": "өгүүлэл"
+  },
+  {
+    "hanzi": "文字",
+    "pinyin": "wénzì",
+    "pos": "名词",
+    "english": "writing, character",
+    "mongolian": "бичиг үсэг"
+  },
+  {
+    "hanzi": "污染",
+    "pinyin": "wūrǎn",
+    "pos": "动词",
+    "english": "contaminated",
+    "mongolian": "бохирдуулах"
+  },
+  {
+    "hanzi": "无",
+    "pinyin": "wú",
+    "pos": "动词",
+    "english": "to lack, to not have",
+    "mongolian": "байхгүй"
+  },
+  {
+    "hanzi": "无法",
+    "pinyin": "wúfǎ",
+    "pos": "动词",
+    "english": "unable, incapable",
+    "mongolian": "чадахгүй"
+  },
+  {
+    "hanzi": "无聊",
+    "pinyin": "wúliáo",
+    "pos": "形容词",
+    "english": "boring, dull",
+    "mongolian": "уйтгартай"
+  },
+  {
+    "hanzi": "无论",
+    "pinyin": "wúlùn",
+    "pos": "连词",
+    "english": "no matter what, regardless",
+    "mongolian": "ямар ч"
+  },
+  {
+    "hanzi": "午餐",
+    "pinyin": "wǔcān",
+    "pos": "名词",
+    "english": "lunch",
+    "mongolian": "өдрийн хоол"
+  },
+  {
+    "hanzi": "误会",
+    "pinyin": "wùhuì",
+    "pos": "动/名词",
+    "english": "to misunderstand; misunderstanding",
+    "mongolian": "буруу ойлгох; буруу ойлголт"
+  },
+  {
+    "hanzi": "吸",
+    "pinyin": "xī",
+    "pos": "动词",
+    "english": "to suck, to inhale, to absorb",
+    "mongolian": "шингээх, амьсгаах"
+  },
+  {
+    "hanzi": "西部",
+    "pinyin": "xībù",
+    "pos": "名词",
+    "english": "western region, west part",
+    "mongolian": "баруун хэсэг"
+  },
+  {
+    "hanzi": "西红柿",
+    "pinyin": "xīhóngshì",
+    "pos": "名词",
+    "english": "tomato",
+    "mongolian": "улаан лооль"
+  },
+  {
+    "hanzi": "吸引",
+    "pinyin": "xīyǐn",
+    "pos": "动词",
+    "english": "to attract",
+    "mongolian": "татах"
+  },
+  {
+    "hanzi": "细",
+    "pinyin": "xì",
+    "pos": "形容词",
+    "english": "thin, fine, detailed",
+    "mongolian": "нарийн"
+  },
+  {
+    "hanzi": "细心",
+    "pinyin": "xìxīn",
+    "pos": "形容词",
+    "english": "careful, attentive",
+    "mongolian": "болгоомжтой"
+  },
+  {
+    "hanzi": "下降",
+    "pinyin": "xiàjiàng",
+    "pos": "动词",
+    "english": "to decline, to drop, to go down",
+    "mongolian": "буурах"
+  },
+  {
+    "hanzi": "鲜",
+    "pinyin": "xiān",
+    "pos": "形容词",
+    "english": "fresh",
+    "mongolian": "шинэхэн"
+  },
+  {
+    "hanzi": "鲜花",
+    "pinyin": "xiānhuā",
+    "pos": "名词",
+    "english": "fresh flower",
+    "mongolian": "цэцэг"
+  },
+  {
+    "hanzi": "咸",
+    "pinyin": "xián",
+    "pos": "形容词",
+    "english": "salty",
+    "mongolian": "давслаг"
+  },
+  {
+    "hanzi": "现金",
+    "pinyin": "xiànjīn",
+    "pos": "名词",
+    "english": "cash",
+    "mongolian": "бэлэн мөнгө"
+  },
+  {
+    "hanzi": "羡慕",
+    "pinyin": "xiànmù",
+    "pos": "动词",
+    "english": "to envy, to admire",
+    "mongolian": "атаархах"
+  },
+  {
+    "hanzi": "线上",
+    "pinyin": "xiànshàng",
+    "pos": "名词",
+    "english": "online, on the internet",
+    "mongolian": "онлайн"
+  },
+  {
+    "hanzi": "线下",
+    "pinyin": "xiànxià",
+    "pos": "名词",
+    "english": "offline",
+    "mongolian": "офлайн"
+  },
+  {
+    "hanzi": "现有",
+    "pinyin": "xiànyǒu",
+    "pos": "动/形容词",
+    "english": "existing, currently available; to have currently",
+    "mongolian": "одоо байгаа"
+  },
+  {
+    "hanzi": "香",
+    "pinyin": "xiāng",
+    "pos": "形容词",
+    "english": "fragrant",
+    "mongolian": "анхилуун үнэртэй"
+  },
+  {
+    "hanzi": "相比",
+    "pinyin": "xiāngbǐ",
+    "pos": "动词",
+    "english": "to compare with, to contrast",
+    "mongolian": "харьцуулах"
+  },
+  {
+    "hanzi": "相反",
+    "pinyin": "xiāngfǎn",
+    "pos": "形/连词",
+    "english": "opposite, contrary; on the contrary",
+    "mongolian": "эсрэг"
+  },
+  {
+    "hanzi": "相互",
+    "pinyin": "xiānghù",
+    "pos": "副词",
+    "english": "mutual, each other",
+    "mongolian": "харилцан"
+  },
+  {
+    "hanzi": "相同",
+    "pinyin": "xiāngtóng",
+    "pos": "形容词",
+    "english": "same, identical",
+    "mongolian": "ижил"
+  },
+  {
+    "hanzi": "详细",
+    "pinyin": "xiángxì",
+    "pos": "形容词",
+    "english": "detailed, thorough",
+    "mongolian": "нарийвчилсан"
+  },
+  {
+    "hanzi": "响",
+    "pinyin": "xiǎng",
+    "pos": "动/形容词",
+    "english": "to make a sound, to ring; loud",
+    "mongolian": "дуугарах"
+  },
+  {
+    "hanzi": "想法",
+    "pinyin": "xiǎngfǎ",
+    "pos": "名词",
+    "english": "thought, idea, opinion",
+    "mongolian": "санаа"
+  },
+  {
+    "hanzi": "项",
+    "pinyin": "xiàng",
+    "pos": "量词",
+    "english": "measure word for projects, items",
+    "mongolian": "төсөл тоолох үг"
+  },
+  {
+    "hanzi": "消息",
+    "pinyin": "xiāoxi",
+    "pos": "名词",
+    "english": "news, message, information",
+    "mongolian": "мэдээ"
+  },
+  {
+    "hanzi": "小吃",
+    "pinyin": "xiǎochī",
+    "pos": "名词",
+    "english": "snack, light meal",
+    "mongolian": "хөнгөн зууш"
+  },
+  {
+    "hanzi": "小伙子",
+    "pinyin": "xiǎohuǒzi",
+    "pos": "名词",
+    "english": "young man, lad",
+    "mongolian": "залуу"
+  },
+  {
+    "hanzi": "小说",
+    "pinyin": "xiǎoshuō",
+    "pos": "名词",
+    "english": "novel, fiction",
+    "mongolian": "роман"
+  },
+  {
+    "hanzi": "小组",
+    "pinyin": "xiǎozǔ",
+    "pos": "名词",
+    "english": "small group, team",
+    "mongolian": "бага баг"
+  },
+  {
+    "hanzi": "效果",
+    "pinyin": "xiàoguǒ",
+    "pos": "名词",
+    "english": "effect, result",
+    "mongolian": "үр дүн"
+  },
+  {
+    "hanzi": "笑话",
+    "pinyin": "xiàohua",
+    "pos": "名/动词",
+    "english": "joke, laughter; to joke, to laugh at",
+    "mongolian": "онигоо; тохуурхах"
+  },
+  {
+    "hanzi": "血",
+    "pinyin": "xiě",
+    "pos": "名词",
+    "english": "blood",
+    "mongolian": "цус"
+  },
+  {
+    "hanzi": "心",
+    "pinyin": "xīn",
+    "pos": "名词",
+    "english": "heart",
+    "mongolian": "зүрх"
+  },
+  {
+    "hanzi": "辛苦",
+    "pinyin": "xīnkǔ",
+    "pos": "形/动词",
+    "english": "hard, laborious; to work hard, to toil",
+    "mongolian": "хөдөлмөрлөх"
+  },
+  {
+    "hanzi": "心情",
+    "pinyin": "xīnqíng",
+    "pos": "名词",
+    "english": "mood, feeling",
+    "mongolian": "сэтгэл санаа"
+  },
+  {
+    "hanzi": "信号",
+    "pinyin": "xìnhào",
+    "pos": "名词",
+    "english": "signal",
+    "mongolian": "дохио"
+  },
+  {
+    "hanzi": "信息",
+    "pinyin": "xìnxī",
+    "pos": "名词",
+    "english": "information, message",
+    "mongolian": "мэдээлэл"
+  },
+  {
+    "hanzi": "信心",
+    "pinyin": "xìnxīn",
+    "pos": "名词",
+    "english": "confidence, faith",
+    "mongolian": "итгэл"
+  },
+  {
+    "hanzi": "兴奋",
+    "pinyin": "xīngfèn",
+    "pos": "形/动词",
+    "english": "excited, thrilled; to excite, to get excited",
+    "mongolian": "догдолсон"
+  },
+  {
+    "hanzi": "星星",
+    "pinyin": "xīngxing",
+    "pos": "名词",
+    "english": "star",
+    "mongolian": "од"
+  },
+  {
+    "hanzi": "醒",
+    "pinyin": "xǐng",
+    "pos": "动词",
+    "english": "to wake up, to sober up",
+    "mongolian": "сэрэх"
+  },
+  {
+    "hanzi": "性",
+    "pinyin": "xìng",
+    "pos": "后缀",
+    "english": "suffix meaning nature, character, quality",
+    "mongolian": "чанар заах дагавар"
+  },
+  {
+    "hanzi": "性别",
+    "pinyin": "xìngbié",
+    "pos": "名词",
+    "english": "gender, sex",
+    "mongolian": "хүйс"
+  },
+  {
+    "hanzi": "幸福",
+    "pinyin": "xìngfú",
+    "pos": "名/形容词",
+    "english": "happiness; happy, blissful",
+    "mongolian": "аз жаргал"
+  },
+  {
+    "hanzi": "性格",
+    "pinyin": "xìnggé",
+    "pos": "名词",
+    "english": "character",
+    "mongolian": "зан чанар"
+  },
+  {
+    "hanzi": "兄弟",
+    "pinyin": "xiōngdì",
+    "pos": "名词",
+    "english": "brothers",
+    "mongolian": "ах дүү"
+  },
+  {
+    "hanzi": "熊",
+    "pinyin": "xióng",
+    "pos": "名词",
+    "english": "bear",
+    "mongolian": "баавгай"
+  },
+  {
+    "hanzi": "修",
+    "pinyin": "xiū",
+    "pos": "动词",
+    "english": "to repair, to fix",
+    "mongolian": "засах"
+  },
+  {
+    "hanzi": "修理",
+    "pinyin": "xiūlǐ",
+    "pos": "动词",
+    "english": "to repair, to fix",
+    "mongolian": "засварлах"
+  },
+  {
+    "hanzi": "许多",
+    "pinyin": "xǔduō",
+    "pos": "数词",
+    "english": "many, numerous",
+    "mongolian": "олон"
+  },
+  {
+    "hanzi": "学费",
+    "pinyin": "xuéfèi",
+    "pos": "名词",
+    "english": "tuition fee",
+    "mongolian": "сургалтын төлбөр"
+  },
+  {
+    "hanzi": "学院",
+    "pinyin": "xuéyuàn",
+    "pos": "名词",
+    "english": "college, academy, institute",
+    "mongolian": "коллеж"
+  },
+  {
+    "hanzi": "压",
+    "pinyin": "yā",
+    "pos": "动词",
+    "english": "to press, to push down, to weigh down",
+    "mongolian": "дарах"
+  },
+  {
+    "hanzi": "压力",
+    "pinyin": "yālì",
+    "pos": "名词",
+    "english": "pressure, stress",
+    "mongolian": "дарамт"
+  },
+  {
+    "hanzi": "牙膏",
+    "pinyin": "yágāo",
+    "pos": "名词",
+    "english": "toothpaste",
+    "mongolian": "шүдний оо"
+  },
+  {
+    "hanzi": "亚洲",
+    "pinyin": "Yàzhōu",
+    "pos": "名词",
+    "english": "Asia",
+    "mongolian": "Ази"
+  },
+  {
+    "hanzi": "烟",
+    "pinyin": "yān",
+    "pos": "名词",
+    "english": "cigarette, smoke, mist",
+    "mongolian": "тамхи, утаа"
+  },
+  {
+    "hanzi": "盐",
+    "pinyin": "yán",
+    "pos": "名词",
+    "english": "salt",
+    "mongolian": "давс"
+  },
+  {
+    "hanzi": "严格",
+    "pinyin": "yángé",
+    "pos": "形/动词",
+    "english": "strict, stringent; to restrict strictly",
+    "mongolian": "хатуу чанд"
+  },
+  {
+    "hanzi": "研究",
+    "pinyin": "yánjiū",
+    "pos": "动词",
+    "english": "to research, to study",
+    "mongolian": "судлах"
+  },
+  {
+    "hanzi": "研究生",
+    "pinyin": "yánjiūshēng",
+    "pos": "名词",
+    "english": "graduate student, postgraduate",
+    "mongolian": "магистрант"
+  },
+  {
+    "hanzi": "严重",
+    "pinyin": "yánzhòng",
+    "pos": "形容词",
+    "english": "serious, severe, grave",
+    "mongolian": "ноцтой"
+  },
+  {
+    "hanzi": "演",
+    "pinyin": "yǎn",
+    "pos": "动词",
+    "english": "to act, to perform, to play",
+    "mongolian": "тоглох"
+  },
+  {
+    "hanzi": "演唱",
+    "pinyin": "yǎnchàng",
+    "pos": "动词",
+    "english": "to sing, to perform vocally",
+    "mongolian": "дуулах"
+  },
+  {
+    "hanzi": "演出",
+    "pinyin": "yǎnchū",
+    "pos": "动词",
+    "english": "to perform, to put on a show",
+    "mongolian": "тоглолт хийх"
+  },
+  {
+    "hanzi": "眼镜",
+    "pinyin": "yǎnjìng",
+    "pos": "名词",
+    "english": "eyeglasses, glasses",
+    "mongolian": "нүдний шил"
+  },
+  {
+    "hanzi": "眼前",
+    "pinyin": "yǎnqián",
+    "pos": "名词",
+    "english": "before one's eyes, at the moment",
+    "mongolian": "нүдний өмнө"
+  },
+  {
+    "hanzi": "演员",
+    "pinyin": "yǎnyuán",
+    "pos": "名词",
+    "english": "actor, performer",
+    "mongolian": "жүжигчин"
+  },
+  {
+    "hanzi": "阳光",
+    "pinyin": "yángguāng",
+    "pos": "名词",
+    "english": "sunlight, sunshine",
+    "mongolian": "наран гэрэл"
+  },
+  {
+    "hanzi": "养成",
+    "pinyin": "yǎngchéng",
+    "pos": "动词",
+    "english": "to develop, to cultivate, to form",
+    "mongolian": "хэвшүүлэх"
+  },
+  {
+    "hanzi": "样子",
+    "pinyin": "yàngzi",
+    "pos": "名词",
+    "english": "appearance, look, manner",
+    "mongolian": "дүр төрх"
+  },
+  {
+    "hanzi": "邀请",
+    "pinyin": "yāoqǐng",
+    "pos": "动词",
+    "english": "to invite",
+    "mongolian": "урих"
+  },
+  {
+    "hanzi": "要是",
+    "pinyin": "yàoshi",
+    "pos": "连词",
+    "english": "if, suppose",
+    "mongolian": "хэрэв"
+  },
+  {
+    "hanzi": "钥匙",
+    "pinyin": "yàoshi",
+    "pos": "名词",
+    "english": "key",
+    "mongolian": "түлхүүр"
+  },
+  {
+    "hanzi": "也许",
+    "pinyin": "yěxǔ",
+    "pos": "副词",
+    "english": "maybe, perhaps",
+    "mongolian": "магадгүй"
+  },
+  {
+    "hanzi": "夜",
+    "pinyin": "yè",
+    "pos": "名词",
+    "english": "night; measure word for segments of the night",
+    "mongolian": "шөнө"
+  },
+  {
+    "hanzi": "夜晚",
+    "pinyin": "yèwǎn",
+    "pos": "名词",
+    "english": "night, evening",
+    "mongolian": "шөнө"
+  },
+  {
+    "hanzi": "叶子",
+    "pinyin": "yèzi",
+    "pos": "名词",
+    "english": "Leaf",
+    "mongolian": "навч"
+  },
+  {
+    "hanzi": "一切",
+    "pinyin": "yíqiè",
+    "pos": "代词",
+    "english": "everything",
+    "mongolian": "бүх зүйл"
+  },
+  {
+    "hanzi": "已",
+    "pinyin": "yǐ",
+    "pos": "副词",
+    "english": "already",
+    "mongolian": "аль хэдийн"
+  },
+  {
+    "hanzi": "以内",
+    "pinyin": "yǐnèi",
+    "pos": "名词",
+    "english": "within",
+    "mongolian": "дотор (хугацаа, хэмжээ)"
+  },
+  {
+    "hanzi": "意见",
+    "pinyin": "yìjiàn",
+    "pos": "名词",
+    "english": "opinion",
+    "mongolian": "санал"
+  },
+  {
+    "hanzi": "一生",
+    "pinyin": "yìshēng",
+    "pos": "名词",
+    "english": "lifetime, all one's life",
+    "mongolian": "амьдралын хугацаа"
+  },
+  {
+    "hanzi": "艺术",
+    "pinyin": "yìshù",
+    "pos": "名词",
+    "english": "art",
+    "mongolian": "урлаг"
+  },
+  {
+    "hanzi": "因此",
+    "pinyin": "yīncǐ",
+    "pos": "连词",
+    "english": "therefore",
+    "mongolian": "тиймээс"
+  },
+  {
+    "hanzi": "引起",
+    "pinyin": "yǐnqǐ",
+    "pos": "动词",
+    "english": "cause",
+    "mongolian": "үүсгэх"
+  },
+  {
+    "hanzi": "印象",
+    "pinyin": "yìnxiàng",
+    "pos": "名词",
+    "english": "impression",
+    "mongolian": "сэтгэгдэл"
+  },
+  {
+    "hanzi": "赢",
+    "pinyin": "yíng",
+    "pos": "动词",
+    "english": "win",
+    "mongolian": "ялах"
+  },
+  {
+    "hanzi": "赢得",
+    "pinyin": "yíngdé",
+    "pos": "动词",
+    "english": "gain, win",
+    "mongolian": "хожих"
+  },
+  {
+    "hanzi": "应聘",
+    "pinyin": "yìngpìn",
+    "pos": "动词",
+    "english": "to apply for a job, to respond to a job advertisement",
+    "mongolian": "ажилд өргөдөл гаргах"
+  },
+  {
+    "hanzi": "勇敢",
+    "pinyin": "yǒnggǎn",
+    "pos": "形容词",
+    "english": "brave, courageous",
+    "mongolian": "зоригтой"
+  },
+  {
+    "hanzi": "永远",
+    "pinyin": "yǒngyuǎn",
+    "pos": "副/名词",
+    "english": "forever, always; eternity, forever",
+    "mongolian": "үүрд"
+  },
+  {
+    "hanzi": "用来",
+    "pinyin": "yònglái",
+    "pos": "动词",
+    "english": "to be used for, to serve as",
+    "mongolian": "-д ашиглагдах"
+  },
+  {
+    "hanzi": "用于",
+    "pinyin": "yòngyú",
+    "pos": "动词",
+    "english": "to be used for, to be applied to",
+    "mongolian": "-д хэрэглэгдэх"
+  },
+  {
+    "hanzi": "优点",
+    "pinyin": "yōudiǎn",
+    "pos": "名词",
+    "english": "advantage, merit, strong point",
+    "mongolian": "давуу тал"
+  },
+  {
+    "hanzi": "幽默",
+    "pinyin": "yōumò",
+    "pos": "形容词",
+    "english": "humorous",
+    "mongolian": "хошин шог"
+  },
+  {
+    "hanzi": "优秀",
+    "pinyin": "yōuxiù",
+    "pos": "形容词",
+    "english": "excellent, outstanding",
+    "mongolian": "шилдэг"
+  },
+  {
+    "hanzi": "由",
+    "pinyin": "yóu",
+    "pos": "介词",
+    "english": "by, through, from, because of",
+    "mongolian": "-аар"
+  },
+  {
+    "hanzi": "油",
+    "pinyin": "yóu",
+    "pos": "名词",
+    "english": "oil, fat, grease",
+    "mongolian": "тос"
+  },
+  {
+    "hanzi": "尤其",
+    "pinyin": "yóuqí",
+    "pos": "副词",
+    "english": "especially, particularly",
+    "mongolian": "ялангуяа"
+  },
+  {
+    "hanzi": "游玩",
+    "pinyin": "yóuwán",
+    "pos": "动词",
+    "english": "to play, to have fun, to go sightseeing",
+    "mongolian": "тоглох, аялах"
+  },
+  {
+    "hanzi": "由于",
+    "pinyin": "yóuyú",
+    "pos": "介/连词",
+    "english": "because of, due to; owing to",
+    "mongolian": "учир"
+  },
+  {
+    "hanzi": "友好",
+    "pinyin": "yǒuhǎo",
+    "pos": "形容词",
+    "english": "friendly",
+    "mongolian": "найрсаг"
+  },
+  {
+    "hanzi": "友情",
+    "pinyin": "yǒuqíng",
+    "pos": "名词",
+    "english": "friendship",
+    "mongolian": "нөхөрлөл"
+  },
+  {
+    "hanzi": "有趣",
+    "pinyin": "yǒuqù",
+    "pos": "形容词",
+    "english": "interesting, enjoyable, fun",
+    "mongolian": "сонирхолтой"
+  },
+  {
+    "hanzi": "有效",
+    "pinyin": "yǒuxiào",
+    "pos": "动词",
+    "english": "effective, to be effective",
+    "mongolian": "үр дүнтэй байх"
+  },
+  {
+    "hanzi": "友谊",
+    "pinyin": "yǒuyì",
+    "pos": "名词",
+    "english": "friendship",
+    "mongolian": "нөхөрлөл"
+  },
+  {
+    "hanzi": "有着",
+    "pinyin": "yǒuzhe",
+    "pos": "动词",
+    "english": "to have, to possess",
+    "mongolian": "байх, эзэмших"
+  },
+  {
+    "hanzi": "愉快",
+    "pinyin": "yúkuài",
+    "pos": "形容词",
+    "english": "pleasant, cheerful",
+    "mongolian": "хөгжилтэй"
+  },
+  {
+    "hanzi": "于是",
+    "pinyin": "yúshì",
+    "pos": "连词",
+    "english": "therefore, hence, so",
+    "mongolian": "тиймээс"
+  },
+  {
+    "hanzi": "与",
+    "pinyin": "yǔ",
+    "pos": "介/连词",
+    "english": "with, and",
+    "mongolian": "болон"
+  },
+  {
+    "hanzi": "语法",
+    "pinyin": "yǔfǎ",
+    "pos": "名词",
+    "english": "grammar",
+    "mongolian": "дүрэм зүй"
+  },
+  {
+    "hanzi": "预习",
+    "pinyin": "yùxí",
+    "pos": "动词",
+    "english": "to preview, to prepare",
+    "mongolian": "урьдчилан бэлдэх"
+  },
+  {
+    "hanzi": "原来",
+    "pinyin": "yuánlái",
+    "pos": "形/副词",
+    "english": "original, former; originally, actually",
+    "mongolian": "анхнаасаа"
+  },
+  {
+    "hanzi": "原谅",
+    "pinyin": "yuánliàng",
+    "pos": "动词",
+    "english": "to forgive, to excuse, to pardon",
+    "mongolian": "уучлах"
+  },
+  {
+    "hanzi": "原因",
+    "pinyin": "yuányīn",
+    "pos": "名词",
+    "english": "cause, reason",
+    "mongolian": "шалтгаан"
+  },
+  {
+    "hanzi": "远离",
+    "pinyin": "yuǎnlí",
+    "pos": "动词",
+    "english": "to stay away from, to keep away from",
+    "mongolian": "холдох"
+  },
+  {
+    "hanzi": "院长",
+    "pinyin": "yuànzhǎng",
+    "pos": "名词",
+    "english": "dean, head of a college or institute",
+    "mongolian": "дэд захирал"
+  },
+  {
+    "hanzi": "院子",
+    "pinyin": "yuànzi",
+    "pos": "名词",
+    "english": "courtyard, yard",
+    "mongolian": "хашаа"
+  },
+  {
+    "hanzi": "约",
+    "pinyin": "yuē",
+    "pos": "动/副词",
+    "english": "to make an appointment, to arrange; about, approximately",
+    "mongolian": "тохирох, ойролцоогоор"
+  },
+  {
+    "hanzi": "约会",
+    "pinyin": "yuēhuì",
+    "pos": "动/名词",
+    "english": "to date, to meet up; date, appointment",
+    "mongolian": "уулзалт хийх; уулзалт"
+  },
+  {
+    "hanzi": "月饼",
+    "pinyin": "yuèbing",
+    "pos": "名词",
+    "english": "mooncake",
+    "mongolian": "сарны боов"
+  },
+  {
+    "hanzi": "阅读",
+    "pinyin": "yuèdú",
+    "pos": "动词",
+    "english": "to read, to read aloud",
+    "mongolian": "унших"
+  },
+  {
+    "hanzi": "月份",
+    "pinyin": "yuèfèn",
+    "pos": "名词",
+    "english": "month",
+    "mongolian": "сар"
+  },
+  {
+    "hanzi": "云",
+    "pinyin": "yún",
+    "pos": "名词",
+    "english": "cloud",
+    "mongolian": "үүл"
+  },
+  {
+    "hanzi": "允许",
+    "pinyin": "yǔnxǔ",
+    "pos": "动词",
+    "english": "to permit, to allow, to give permission",
+    "mongolian": "зөвшөөрөх"
+  },
+  {
+    "hanzi": "杂志",
+    "pinyin": "zázhì",
+    "pos": "名词",
+    "english": "magazine",
+    "mongolian": "сэтгүүл"
+  },
+  {
+    "hanzi": "再次",
+    "pinyin": "zàicì",
+    "pos": "副词",
+    "english": "once again, once more",
+    "mongolian": "дахин"
+  },
+  {
+    "hanzi": "再说",
+    "pinyin": "zàishuō",
+    "pos": "动/连词",
+    "english": "to put off, to postpone; besides, moreover",
+    "mongolian": "дараа нь хэлье; түүнчлэн"
+  },
+  {
+    "hanzi": "暂时",
+    "pinyin": "zànshí",
+    "pos": "形容词",
+    "english": "temporary, for the time being",
+    "mongolian": "түр зуурын"
+  },
+  {
+    "hanzi": "暂停",
+    "pinyin": "zàntíng",
+    "pos": "动词",
+    "english": "to suspend, to pause",
+    "mongolian": "түр зогсоох"
+  },
+  {
+    "hanzi": "早餐",
+    "pinyin": "zǎocān",
+    "pos": "名词",
+    "english": "breakfast",
+    "mongolian": "өглөөний хоол"
+  },
+  {
+    "hanzi": "早晨",
+    "pinyin": "zǎochen",
+    "pos": "名词",
+    "english": "morning",
+    "mongolian": "өглөө"
+  },
+  {
+    "hanzi": "责任",
+    "pinyin": "zérèn",
+    "pos": "名词",
+    "english": "responsibility, duty",
+    "mongolian": "хариуцлага"
+  },
+  {
+    "hanzi": "增加",
+    "pinyin": "zēngjiā",
+    "pos": "动词",
+    "english": "to increase, to add, to raise",
+    "mongolian": "нэмэгдэх"
+  },
+  {
+    "hanzi": "增长",
+    "pinyin": "zēngzhǎng",
+    "pos": "动词",
+    "english": "to increase, to grow, to rise",
+    "mongolian": "өсөх"
+  },
+  {
+    "hanzi": "招聘",
+    "pinyin": "zhāopìn",
+    "pos": "动词",
+    "english": "to recruit, to hire",
+    "mongolian": "ажилд авах"
+  },
+  {
+    "hanzi": "着",
+    "pinyin": "zháo",
+    "pos": "动词",
+    "english": "to touch, to get to, to catch (fire)",
+    "mongolian": "авалцах, шатах"
+  },
+  {
+    "hanzi": "着火",
+    "pinyin": "zháohuǒ",
+    "pos": "动词",
+    "english": "to catch fire, to ignite",
+    "mongolian": "гал авалцах"
+  },
+  {
+    "hanzi": "者",
+    "pinyin": "zhě",
+    "pos": "助词",
+    "english": "suffix meaning person, one who",
+    "mongolian": "хүн заах дагавар"
+  },
+  {
+    "hanzi": "真正",
+    "pinyin": "zhēnzhèng",
+    "pos": "形/副词",
+    "english": "true, genuine; truly, indeed",
+    "mongolian": "жинхэнэ"
+  },
+  {
+    "hanzi": "整",
+    "pinyin": "zhěng",
+    "pos": "形容词",
+    "english": "whole, complete, entire",
+    "mongolian": "бүхэл"
+  },
+  {
+    "hanzi": "整个",
+    "pinyin": "zhěnggè",
+    "pos": "形容词",
+    "english": "whole, entire, all",
+    "mongolian": "бүхэл бүтэн"
+  },
+  {
+    "hanzi": "整理",
+    "pinyin": "zhěnglǐ",
+    "pos": "动词",
+    "english": "to arrange, to put in order, to tidy up",
+    "mongolian": "эмхлэн цэгцлэх"
+  },
+  {
+    "hanzi": "证",
+    "pinyin": "zhèng",
+    "pos": "名词",
+    "english": "certificate, proof, evidence",
+    "mongolian": "гэрчилгээ"
+  },
+  {
+    "hanzi": "正常",
+    "pinyin": "zhèngcháng",
+    "pos": "形容词",
+    "english": "normal, regular, proper",
+    "mongolian": "хэвийн"
+  },
+  {
+    "hanzi": "正好",
+    "pinyin": "zhènghǎo",
+    "pos": "形/副词",
+    "english": "exactly right, just in time; coincidentally",
+    "mongolian": "яг таарсан"
+  },
+  {
+    "hanzi": "证件",
+    "pinyin": "zhèngjiàn",
+    "pos": "名词",
+    "english": "ID card, credentials, identification papers",
+    "mongolian": "бичиг баримт"
+  },
+  {
+    "hanzi": "证明",
+    "pinyin": "zhèngmíng",
+    "pos": "动/名词",
+    "english": "to prove, to demonstrate; proof, certificate",
+    "mongolian": "батлах; баталгаа"
+  },
+  {
+    "hanzi": "正确",
+    "pinyin": "zhèngquè",
+    "pos": "形容词",
+    "english": "correct, right, accurate",
+    "mongolian": "зөв"
+  },
+  {
+    "hanzi": "正式",
+    "pinyin": "zhèngshì",
+    "pos": "形容词",
+    "english": "formal, official",
+    "mongolian": "албан ёсны"
+  },
+  {
+    "hanzi": "之",
+    "pinyin": "zhī",
+    "pos": "助词",
+    "english": "auxiliary word (classical)",
+    "mongolian": "эртний туслах үг"
+  },
+  {
+    "hanzi": "支持",
+    "pinyin": "zhīchí",
+    "pos": "动词",
+    "english": "to support, to back",
+    "mongolian": "дэмжих"
+  },
+  {
+    "hanzi": "支付",
+    "pinyin": "zhīfù",
+    "pos": "动词",
+    "english": "to pay (money)",
+    "mongolian": "төлбөр төлөх"
+  },
+  {
+    "hanzi": "之后",
+    "pinyin": "zhīhòu",
+    "pos": "名词",
+    "english": "after, later, behind",
+    "mongolian": "дараа"
+  },
+  {
+    "hanzi": "之间",
+    "pinyin": "zhījiān",
+    "pos": "名词",
+    "english": "between, among",
+    "mongolian": "хооронд"
+  },
+  {
+    "hanzi": "之前",
+    "pinyin": "zhīqián",
+    "pos": "名词",
+    "english": "before, prior to",
+    "mongolian": "өмнө"
+  },
+  {
+    "hanzi": "知识",
+    "pinyin": "zhīshi",
+    "pos": "名词",
+    "english": "knowledge",
+    "mongolian": "мэдлэг"
+  },
+  {
+    "hanzi": "之中",
+    "pinyin": "zhīzhōng",
+    "pos": "名词",
+    "english": "among, inside",
+    "mongolian": "дунд"
+  },
+  {
+    "hanzi": "值",
+    "pinyin": "zhí",
+    "pos": "动/形容词",
+    "english": "to be worth, to be equal in value; valuable, worthwhile",
+    "mongolian": "үнэ цэнэтэй"
+  },
+  {
+    "hanzi": "值得",
+    "pinyin": "zhídé",
+    "pos": "动词",
+    "english": "to be worth, to deserve",
+    "mongolian": "үнэ цэнэтэй байх"
+  },
+  {
+    "hanzi": "直接",
+    "pinyin": "zhíjiē",
+    "pos": "形容词",
+    "english": "direct, straightforward",
+    "mongolian": "шууд"
+  },
+  {
+    "hanzi": "植物",
+    "pinyin": "zhíwù",
+    "pos": "名词",
+    "english": "plant, vegetation",
+    "mongolian": "ургамал"
+  },
+  {
+    "hanzi": "职业",
+    "pinyin": "zhíyè",
+    "pos": "名词",
+    "english": "occupation, profession",
+    "mongolian": "мэргэжил"
+  },
+  {
+    "hanzi": "指",
+    "pinyin": "zhǐ",
+    "pos": "动词",
+    "english": "to point to, to indicate",
+    "mongolian": "заах, чиглүүлэх"
+  },
+  {
+    "hanzi": "指出",
+    "pinyin": "zhǐchū",
+    "pos": "动词",
+    "english": "to point out, to indicate",
+    "mongolian": "онцлон заах"
+  },
+  {
+    "hanzi": "只好",
+    "pinyin": "zhǐhǎo",
+    "pos": "副词",
+    "english": "have to, be forced to",
+    "mongolian": "яахын аргагүй"
+  },
+  {
+    "hanzi": "纸巾",
+    "pinyin": "zhǐjīn",
+    "pos": "名词",
+    "english": "tissue paper, napkin",
+    "mongolian": "ариун цэврийн цаас"
+  },
+  {
+    "hanzi": "质量",
+    "pinyin": "zhìliàng",
+    "pos": "名词",
+    "english": "quality",
+    "mongolian": "чанар"
+  },
+  {
+    "hanzi": "至少",
+    "pinyin": "zhìshǎo",
+    "pos": "副词",
+    "english": "at least",
+    "mongolian": "наад зах нь"
+  },
+  {
+    "hanzi": "中餐",
+    "pinyin": "zhōngcān",
+    "pos": "名词",
+    "english": "Chinese food, Chinese meal",
+    "mongolian": "хятад хоол"
+  },
+  {
+    "hanzi": "中年",
+    "pinyin": "zhōngnián",
+    "pos": "名词",
+    "english": "middle age",
+    "mongolian": "дунд нас"
+  },
+  {
+    "hanzi": "种",
+    "pinyin": "zhòng",
+    "pos": "动词",
+    "english": "to plant, to grow",
+    "mongolian": "тарих"
+  },
+  {
+    "hanzi": "重",
+    "pinyin": "zhòng",
+    "pos": "名/形容词",
+    "english": "weight, importance; heavy, important",
+    "mongolian": "жин; хүнд"
+  },
+  {
+    "hanzi": "重点",
+    "pinyin": "zhòngdiǎn",
+    "pos": "名/副词",
+    "english": "key point, emphasis; mainly, emphatically",
+    "mongolian": "гол цэг"
+  },
+  {
+    "hanzi": "重视",
+    "pinyin": "zhòngshì",
+    "pos": "动词",
+    "english": "to pay attention to, to value",
+    "mongolian": "чухалчлах"
+  },
+  {
+    "hanzi": "周围",
+    "pinyin": "zhōuwéi",
+    "pos": "名词",
+    "english": "around, surrounding",
+    "mongolian": "эргэн тойрон"
+  },
+  {
+    "hanzi": "主意",
+    "pinyin": "zhǔyi",
+    "pos": "名词",
+    "english": "idea, thought, plan",
+    "mongolian": "санаа"
+  },
+  {
+    "hanzi": "祝",
+    "pinyin": "zhù",
+    "pos": "动词",
+    "english": "to wish, to express good wishes",
+    "mongolian": "ерөөх"
+  },
+  {
+    "hanzi": "祝贺",
+    "pinyin": "zhùhè",
+    "pos": "动词",
+    "english": "to congratulate, to offer congratulations",
+    "mongolian": "баяр хүргэх"
+  },
+  {
+    "hanzi": "著名",
+    "pinyin": "zhùmíng",
+    "pos": "形容词",
+    "english": "famous, well-known",
+    "mongolian": "алдартай"
+  },
+  {
+    "hanzi": "专门",
+    "pinyin": "zhuānmén",
+    "pos": "副/形容词",
+    "english": "specially, specifically; special",
+    "mongolian": "тусгайлан"
+  },
+  {
+    "hanzi": "专业",
+    "pinyin": "zhuānyè",
+    "pos": "名/形容词",
+    "english": "specialty, major; professional, specialized",
+    "mongolian": "мэргэжил"
+  },
+  {
+    "hanzi": "转",
+    "pinyin": "zhuǎn",
+    "pos": "动词",
+    "english": "to turn, to shift, to transfer",
+    "mongolian": "эргэх, шилжих"
+  },
+  {
+    "hanzi": "转发",
+    "pinyin": "zhuǎnfā",
+    "pos": "动词",
+    "english": "to forward (a message), to retweet",
+    "mongolian": "дамжуулах"
+  },
+  {
+    "hanzi": "转机",
+    "pinyin": "zhuǎnjī",
+    "pos": "动词",
+    "english": "to transfer (flight), to change planes",
+    "mongolian": "шилжин суух (нислэг)"
+  },
+  {
+    "hanzi": "赚",
+    "pinyin": "zhuàn",
+    "pos": "动词",
+    "english": "to earn, to make a profit",
+    "mongolian": "ашиг олох"
+  },
+  {
+    "hanzi": "装",
+    "pinyin": "zhuāng",
+    "pos": "动词",
+    "english": "to load, to pack, to pretend, to install",
+    "mongolian": "ачих, дүр эсгэх"
+  },
+  {
+    "hanzi": "准",
+    "pinyin": "zhǔn",
+    "pos": "形容词",
+    "english": "accurate, exact, standard; (definitely, certainly)",
+    "mongolian": "тодорхой, зөв"
+  },
+  {
+    "hanzi": "准确",
+    "pinyin": "zhǔnquè",
+    "pos": "形容词",
+    "english": "accurate, precise",
+    "mongolian": "нарийвчлалтай"
+  },
+  {
+    "hanzi": "准时",
+    "pinyin": "zhǔnshí",
+    "pos": "形容词",
+    "english": "on time, punctual",
+    "mongolian": "цагтаа"
+  },
+  {
+    "hanzi": "资料",
+    "pinyin": "zīliào",
+    "pos": "名词",
+    "english": "materials, data, information",
+    "mongolian": "материал"
+  },
+  {
+    "hanzi": "仔细",
+    "pinyin": "zǐxì",
+    "pos": "形容词",
+    "english": "careful, attentive, meticulous",
+    "mongolian": "нягт нямбай"
+  },
+  {
+    "hanzi": "自",
+    "pinyin": "zì",
+    "pos": "介词",
+    "english": "from, since, oneself",
+    "mongolian": "-аас, өөрөө"
+  },
+  {
+    "hanzi": "自然",
+    "pinyin": "zìrán",
+    "pos": "名/形/副词",
+    "english": "nature; natural; naturally, of course",
+    "mongolian": "байгаль"
+  },
+  {
+    "hanzi": "自习",
+    "pinyin": "zìxí",
+    "pos": "动词",
+    "english": "to study on one's own",
+    "mongolian": "өөрөө бие даан суралцах"
+  },
+  {
+    "hanzi": "自信",
+    "pinyin": "zìxìn",
+    "pos": "动/名/形容词",
+    "english": "to believe in oneself; self-confidence, confidence; confident",
+    "mongolian": "өөртөө итгэлтэй"
+  },
+  {
+    "hanzi": "自学",
+    "pinyin": "zìxué",
+    "pos": "动词",
+    "english": "to teach oneself, to self-study",
+    "mongolian": "өөрөө сурах"
+  },
+  {
+    "hanzi": "总结",
+    "pinyin": "zǒngjié",
+    "pos": "动/名词",
+    "english": "to summarize, to sum up; summary",
+    "mongolian": "дүгнэх; дүгнэлт"
+  },
+  {
+    "hanzi": "租",
+    "pinyin": "zū",
+    "pos": "动词",
+    "english": "to rent, to hire",
+    "mongolian": "түрээслэх"
+  },
+  {
+    "hanzi": "组",
+    "pinyin": "zǔ",
+    "pos": "名词",
+    "english": "group, team; (to organize; measure word for groups)",
+    "mongolian": "бүлэг"
+  },
+  {
+    "hanzi": "最终",
+    "pinyin": "zuìzhōng",
+    "pos": "名词",
+    "english": "final, ultimate",
+    "mongolian": "эцсийн"
+  },
+  {
+    "hanzi": "尊重",
+    "pinyin": "zūnzhòng",
+    "pos": "动/形容词",
+    "english": "to respect, to value; respected",
+    "mongolian": "хүндэтгэх"
+  },
+  {
+    "hanzi": "左右",
+    "pinyin": "zuǒyòu",
+    "pos": "名词",
+    "english": "about, around, left and right; (to control)",
+    "mongolian": "орчим"
+  },
+  {
+    "hanzi": "座",
+    "pinyin": "zuò",
+    "pos": "名/量词",
+    "english": "seat, place; measure word for seats",
+    "mongolian": "суудал"
+  },
+  {
+    "hanzi": "做法",
+    "pinyin": "zuòfǎ",
+    "pos": "名词",
+    "english": "way of doing things, practice",
+    "mongolian": "хийх арга"
+  },
+  {
+    "hanzi": "作家",
+    "pinyin": "zuòjiā",
+    "pos": "名词",
+    "english": "writer, author",
+    "mongolian": "зохиолч"
+  },
+  {
+    "hanzi": "做梦",
+    "pinyin": "zuòmèng",
+    "pos": "动词",
+    "english": "to dream, to have a dream",
+    "mongolian": "зүүдлэх"
+  },
+  {
+    "hanzi": "作品",
+    "pinyin": "zuòpǐn",
+    "pos": "名词",
+    "english": "work, composition, creation",
+    "mongolian": "бүтээл"
+  },
+  {
+    "hanzi": "作为",
+    "pinyin": "zuòwéi",
+    "pos": "动/介词",
+    "english": "to act as, to serve as; as, being",
+    "mongolian": "гэж үзэх; -ний хувьд"
+  },
+  {
+    "hanzi": "座位",
+    "pinyin": "zuòwèi",
+    "pos": "名词",
+    "english": "seat",
+    "mongolian": "суудал"
+  },
+  {
+    "hanzi": "作文",
+    "pinyin": "zuòwén",
+    "pos": "动/名词",
+    "english": "composition; to write a composition",
+    "mongolian": "зохион бичлэг"
+  },
+  {
+    "hanzi": "作用",
+    "pinyin": "zuòyòng",
+    "pos": "名词",
+    "english": "function, role; (to serve as, to play a role)",
+    "mongolian": "үүрэг"
+  },
+  {
+    "hanzi": "作者",
+    "pinyin": "zuòzhě",
+    "pos": "名词",
+    "english": "author, writer",
+    "mongolian": "зохиогч"
+  }
+]
